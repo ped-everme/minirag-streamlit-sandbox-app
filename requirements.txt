@@ -13,6 +13,9 @@ pytest-asyncio==1.3.0
 openai==1.82.0
 
 # ── paper_pipeline (src/paper_pipeline/) ──────────────────────────────────────
+streamlit>=1.40.0       # dashboard UI
+pandas>=2.0.0           # dataframes
+numpy>=1.26.0           # vector math (rag.py)
 pdfplumber==0.11.9      # PDF text extraction (paper_scorer, indexer)
 faiss-cpu==1.13.2       # vector index for semantic search (indexer)
 tiktoken==0.13.0        # token counting for chunking (indexer)

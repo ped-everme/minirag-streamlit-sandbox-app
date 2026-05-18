@@ -6,20 +6,20 @@ Two pages:
   Audit  — pipeline validation: terms, queries, papers, scores
 
 Run:
-  .venv/bin/streamlit run src/paper_pipeline/streamlit_app.py
+  .venv/bin/streamlit run streamlit_app.py
 """
 
 import json
 import sys
-from datetime import date
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
 
 # ── Path setup ────────────────────────────────────────────────────────────────
-BASE_DIR       = Path(__file__).resolve().parent
-SIGNAL_DIR     = BASE_DIR.parent / "trend_radar" / "data" / "output"
+ROOT_DIR       = Path(__file__).resolve().parent
+BASE_DIR       = ROOT_DIR / "src" / "paper_pipeline"
+SIGNAL_DIR     = ROOT_DIR / "src" / "trend_radar" / "data" / "output"
 CATALOG_PATH   = BASE_DIR / "data" / "catalog.json"
 META_PATH      = BASE_DIR / "data" / "papers_meta.json"
 DOCS_DIR       = BASE_DIR / "data" / "documents"
@@ -146,7 +146,7 @@ def show_audit():
     df_terms = pd.DataFrame(rows)
     st.dataframe(
         df_terms,
-        use_container_width=True,
+        width="stretch",
         column_config={
             "Hype score":     st.column_config.ProgressColumn("Hype score", min_value=0, max_value=1, format="%.3f"),
             "Emerging score": st.column_config.ProgressColumn("Emerging score", min_value=0, max_value=1, format="%.3f"),
@@ -177,7 +177,7 @@ def show_audit():
                 q_rows = [{"Query": e["query"], "Type": e.get("type", "—"),
                            "Papers": e.get("paper_count", 0), "Status": e.get("status", "—")}
                           for e in queries]
-                st.dataframe(pd.DataFrame(q_rows), use_container_width=True,
+                st.dataframe(pd.DataFrame(q_rows), width="stretch",
                              hide_index=True, height=min(38 + len(q_rows) * 35, 250))
             else:
                 st.caption("No queries in catalog for this term.")
@@ -202,7 +202,7 @@ def show_audit():
                     })
                 st.dataframe(
                     pd.DataFrame(p_rows),
-                    use_container_width=True,
+                    width="stretch",
                     hide_index=True,
                     height=min(38 + len(p_rows) * 35, 400),
                     column_config={
@@ -263,7 +263,7 @@ def show_audit():
 
         st.dataframe(
             filtered,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             column_config={
                 "Score": st.column_config.ProgressColumn("Score", min_value=0, max_value=100, format="%.1f"),
