@@ -1,0 +1,705 @@
+{
+  "source": "twitter",
+  "collected_at": "2025-12-13T12:00:00Z",
+  "window": "7d",
+  "term_count": 12,
+  "note": "MOCK DATA — simulated for historical analysis",
+  "terms": [
+    {
+      "term_id": "wolverine-stack",
+      "social_trend_name": "Wolverine Stack",
+      "underlying_topic": "Peptides",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Wolverine Stack",
+        "BPC-157 TB-500",
+        "wolverine protocol peptides",
+        "peptide healing stack"
+      ],
+      "window": "7d",
+      "tweet_count": 29,
+      "total_likes": 23,
+      "total_retweets": 2,
+      "avg_likes": 0.8,
+      "avg_retweets": 0.07,
+      "top_likes": 37,
+      "top_retweets": 6,
+      "tweets": [
+        {
+          "tweet_id": "1908975681613924413",
+          "text": "trying the wolverine stack for my shoulder injury",
+          "author_id": "504612520",
+          "created_at": "2025-12-11T15:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 2,
+          "matched_query": "Wolverine Stack"
+        },
+        {
+          "tweet_id": "1908975681613925567",
+          "text": "bpc157 tb500 combo is wild, week 3 update",
+          "author_id": "928917719",
+          "created_at": "2025-12-10T07:00:00.000Z",
+          "like_count": 1,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 1,
+          "matched_query": "Wolverine Stack"
+        },
+        {
+          "tweet_id": "1908975681613926071",
+          "text": "trying the wolverine stack for my shoulder injury",
+          "author_id": "364697908",
+          "created_at": "2025-12-11T16:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 2,
+          "matched_query": "Wolverine Stack"
+        }
+      ]
+    },
+    {
+      "term_id": "fiber-maxing",
+      "social_trend_name": "Fiber-maxing",
+      "underlying_topic": "Dietary Fiber",
+      "everme_category": "Diet & Nutrition",
+      "queries_used": [
+        "Fiber-maxing",
+        "fiber maxxing",
+        "fiber maxing diet gut health",
+        "high fiber 50 grams daily"
+      ],
+      "window": "7d",
+      "tweet_count": 49,
+      "total_likes": 2081,
+      "total_retweets": 25,
+      "avg_likes": 42.5,
+      "avg_retweets": 0.52,
+      "top_likes": 752,
+      "top_retweets": 9,
+      "tweets": [
+        {
+          "tweet_id": "1929871878528328815",
+          "text": "fiber-maxxing week 2, gut feeling better",
+          "author_id": "230861323",
+          "created_at": "2025-12-09T11:00:00.000Z",
+          "like_count": 80,
+          "retweet_count": 1,
+          "reply_count": 12,
+          "quote_count": 0,
+          "engagement": 81,
+          "matched_query": "Fiber-maxing"
+        },
+        {
+          "tweet_id": "1929871878528330498",
+          "text": "30g fiber challenge, sharing my results",
+          "author_id": "930071496",
+          "created_at": "2025-12-10T05:00:00.000Z",
+          "like_count": 71,
+          "retweet_count": 1,
+          "reply_count": 11,
+          "quote_count": 0,
+          "engagement": 72,
+          "matched_query": "Fiber-maxing"
+        },
+        {
+          "tweet_id": "1929871878528331467",
+          "text": "fiber-maxxing week 2, gut feeling better",
+          "author_id": "574997731",
+          "created_at": "2025-12-10T05:00:00.000Z",
+          "like_count": 82,
+          "retweet_count": 1,
+          "reply_count": 12,
+          "quote_count": 0,
+          "engagement": 83,
+          "matched_query": "Fiber-maxing"
+        }
+      ]
+    },
+    {
+      "term_id": "cortisol-face",
+      "social_trend_name": "Cortisol Face",
+      "underlying_topic": "Cortisol / Stress Hormones",
+      "everme_category": "Mental Wellness",
+      "queries_used": [
+        "Cortisol Face",
+        "high cortisol symptoms face",
+        "cortisol reduction protocol",
+        "puffy face cortisol"
+      ],
+      "window": "7d",
+      "tweet_count": 171,
+      "total_likes": 10061,
+      "total_retweets": 1087,
+      "avg_likes": 58.8,
+      "avg_retweets": 6.36,
+      "top_likes": 1415,
+      "top_retweets": 167,
+      "tweets": [
+        {
+          "tweet_id": "1919783118748187906",
+          "text": "is cortisol face real? my transformation",
+          "author_id": "784987769",
+          "created_at": "2025-12-12T04:00:00.000Z",
+          "like_count": 46,
+          "retweet_count": 5,
+          "reply_count": 7,
+          "quote_count": 0,
+          "engagement": 51,
+          "matched_query": "Cortisol Face"
+        },
+        {
+          "tweet_id": "1919783118748188680",
+          "text": "cortisol face glow-up after fixing my sleep",
+          "author_id": "690936560",
+          "created_at": "2025-12-08T00:00:00.000Z",
+          "like_count": 48,
+          "retweet_count": 7,
+          "reply_count": 7,
+          "quote_count": 1,
+          "engagement": 55,
+          "matched_query": "Cortisol Face"
+        },
+        {
+          "tweet_id": "1919783118748190163",
+          "text": "is cortisol face real? my transformation",
+          "author_id": "798510601",
+          "created_at": "2025-12-11T14:00:00.000Z",
+          "like_count": 125,
+          "retweet_count": 13,
+          "reply_count": 19,
+          "quote_count": 1,
+          "engagement": 138,
+          "matched_query": "Cortisol Face"
+        }
+      ]
+    },
+    {
+      "term_id": "mouth-taping",
+      "social_trend_name": "Mouth Taping",
+      "underlying_topic": "Nasal Breathing",
+      "everme_category": "Sleep & Recovery",
+      "queries_used": [
+        "Mouth Taping",
+        "mouth taping sleep results",
+        "nasal breathing benefits sleep",
+        "mouth tape at night"
+      ],
+      "window": "7d",
+      "tweet_count": 127,
+      "total_likes": 244,
+      "total_retweets": 96,
+      "avg_likes": 1.9,
+      "avg_retweets": 0.76,
+      "top_likes": 78,
+      "top_retweets": 17,
+      "tweets": [
+        {
+          "tweet_id": "1994006152910006123",
+          "text": "mouth taping for 30 days — sleep quality update",
+          "author_id": "999371401",
+          "created_at": "2025-12-08T09:00:00.000Z",
+          "like_count": 3,
+          "retweet_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 5,
+          "matched_query": "Mouth Taping"
+        },
+        {
+          "tweet_id": "1994006152910006886",
+          "text": "stopped snoring with mouth tape",
+          "author_id": "904236062",
+          "created_at": "2025-12-11T19:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 4,
+          "matched_query": "Mouth Taping"
+        },
+        {
+          "tweet_id": "1994006152910008313",
+          "text": "mouth taping for 30 days — sleep quality update",
+          "author_id": "215213239",
+          "created_at": "2025-12-12T14:00:00.000Z",
+          "like_count": 5,
+          "retweet_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement": 6,
+          "matched_query": "Mouth Taping"
+        }
+      ]
+    },
+    {
+      "term_id": "cold-plunge",
+      "social_trend_name": "Cold Plunge",
+      "underlying_topic": "Cold Thermogenesis",
+      "everme_category": "Wellness Therapies",
+      "queries_used": [
+        "Cold Plunge",
+        "ice bath every day results",
+        "cold thermogenesis protocol",
+        "cold water immersion benefits"
+      ],
+      "window": "7d",
+      "tweet_count": 111,
+      "total_likes": 588,
+      "total_retweets": 42,
+      "avg_likes": 5.3,
+      "avg_retweets": 0.38,
+      "top_likes": 132,
+      "top_retweets": 15,
+      "tweets": [
+        {
+          "tweet_id": "1967448903021369303",
+          "text": "cold plunge every day this week, sharing protocol",
+          "author_id": "299929730",
+          "created_at": "2025-12-09T06:00:00.000Z",
+          "like_count": 6,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement": 6,
+          "matched_query": "Cold Plunge"
+        },
+        {
+          "tweet_id": "1967448903021369747",
+          "text": "ice bath benefits after 3 months",
+          "author_id": "756007396",
+          "created_at": "2025-12-08T14:00:00.000Z",
+          "like_count": 3,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 3,
+          "matched_query": "Cold Plunge"
+        },
+        {
+          "tweet_id": "1967448903021370978",
+          "text": "cold plunge every day this week, sharing protocol",
+          "author_id": "818608005",
+          "created_at": "2025-12-07T11:00:00.000Z",
+          "like_count": 14,
+          "retweet_count": 1,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement": 15,
+          "matched_query": "Cold Plunge"
+        }
+      ]
+    },
+    {
+      "term_id": "glp1-revolution",
+      "social_trend_name": "GLP-1 Revolution",
+      "underlying_topic": "GLP-1 Receptor Agonists",
+      "everme_category": "Prescription Medications",
+      "queries_used": [
+        "GLP-1 Revolution",
+        "semaglutide longevity beyond weight loss",
+        "ozempic metabolic health",
+        "GLP-1 agonist longevity research"
+      ],
+      "window": "7d",
+      "tweet_count": 5,
+      "total_likes": 5,
+      "total_retweets": 3,
+      "avg_likes": 1.0,
+      "avg_retweets": 0.61,
+      "top_likes": 14,
+      "top_retweets": 4,
+      "tweets": [
+        {
+          "tweet_id": "1933942187589889662",
+          "text": "glp1 is changing how we think about obesity",
+          "author_id": "380840558",
+          "created_at": "2025-12-12T15:00:00.000Z",
+          "like_count": 1,
+          "retweet_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 2,
+          "matched_query": "GLP-1 Revolution"
+        },
+        {
+          "tweet_id": "1933942187589890814",
+          "text": "semaglutide 6 month update",
+          "author_id": "535312769",
+          "created_at": "2025-12-09T19:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 2,
+          "matched_query": "GLP-1 Revolution"
+        },
+        {
+          "tweet_id": "1933942187589892305",
+          "text": "glp1 is changing how we think about obesity",
+          "author_id": "416794215",
+          "created_at": "2025-12-07T19:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 4,
+          "matched_query": "GLP-1 Revolution"
+        }
+      ]
+    },
+    {
+      "term_id": "urolithin-a",
+      "social_trend_name": "Urolithin A",
+      "underlying_topic": "Mitochondrial Health",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Urolithin A",
+        "urolithin A mitochondria aging",
+        "Timeline Mitopure results",
+        "urolithin A muscle endurance"
+      ],
+      "window": "7d",
+      "tweet_count": 26,
+      "total_likes": 18,
+      "total_retweets": 2,
+      "avg_likes": 0.7,
+      "avg_retweets": 0.08,
+      "top_likes": 17,
+      "top_retweets": 2,
+      "tweets": [
+        {
+          "tweet_id": "1987296185200836381",
+          "text": "urolithin a supplement stack for mitochondria",
+          "author_id": "365713980",
+          "created_at": "2025-12-08T20:00:00.000Z",
+          "like_count": 1,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 1,
+          "matched_query": "Urolithin A"
+        },
+        {
+          "tweet_id": "1987296185200837321",
+          "text": "mitopure review after 60 days",
+          "author_id": "488463544",
+          "created_at": "2025-12-12T04:00:00.000Z",
+          "like_count": 1,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 1,
+          "matched_query": "Urolithin A"
+        },
+        {
+          "tweet_id": "1987296185200837808",
+          "text": "urolithin a supplement stack for mitochondria",
+          "author_id": "714933740",
+          "created_at": "2025-12-11T22:00:00.000Z",
+          "like_count": 0,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 0,
+          "matched_query": "Urolithin A"
+        }
+      ]
+    },
+    {
+      "term_id": "akkermansia",
+      "social_trend_name": "Akkermansia",
+      "underlying_topic": "Gut Microbiome",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Akkermansia",
+        "akkermansia muciniphila benefits",
+        "akkermansia gut microbiome supplement",
+        "akkermansia weight loss"
+      ],
+      "window": "7d",
+      "tweet_count": 34,
+      "total_likes": 69,
+      "total_retweets": 16,
+      "avg_likes": 2.0,
+      "avg_retweets": 0.48,
+      "top_likes": 43,
+      "top_retweets": 10,
+      "tweets": [
+        {
+          "tweet_id": "1984040439908790682",
+          "text": "akkermansia probiotic results",
+          "author_id": "546058739",
+          "created_at": "2025-12-07T22:00:00.000Z",
+          "like_count": 3,
+          "retweet_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 4,
+          "matched_query": "Akkermansia"
+        },
+        {
+          "tweet_id": "1984040439908791562",
+          "text": "gut microbiome protocol featuring akkermansia",
+          "author_id": "373221357",
+          "created_at": "2025-12-06T18:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 3,
+          "matched_query": "Akkermansia"
+        },
+        {
+          "tweet_id": "1984040439908792874",
+          "text": "akkermansia probiotic results",
+          "author_id": "168461684",
+          "created_at": "2025-12-10T05:00:00.000Z",
+          "like_count": 5,
+          "retweet_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement": 6,
+          "matched_query": "Akkermansia"
+        }
+      ]
+    },
+    {
+      "term_id": "methylene-blue",
+      "social_trend_name": "Methylene Blue",
+      "underlying_topic": "Cellular Energy",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Methylene Blue",
+        "methylene blue cognitive benefits",
+        "methylene blue mitochondria energy",
+        "methylene blue dosage protocol"
+      ],
+      "window": "7d",
+      "tweet_count": 169,
+      "total_likes": 2324,
+      "total_retweets": 663,
+      "avg_likes": 13.8,
+      "avg_retweets": 3.92,
+      "top_likes": 473,
+      "top_retweets": 122,
+      "tweets": [
+        {
+          "tweet_id": "1958923933172156496",
+          "text": "methylene blue cognitive boost protocol",
+          "author_id": "510684364",
+          "created_at": "2025-12-11T00:00:00.000Z",
+          "like_count": 10,
+          "retweet_count": 8,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement": 18,
+          "matched_query": "Methylene Blue"
+        },
+        {
+          "tweet_id": "1958923933172157249",
+          "text": "mb nootropic stack review",
+          "author_id": "801726890",
+          "created_at": "2025-12-12T07:00:00.000Z",
+          "like_count": 22,
+          "retweet_count": 4,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement": 26,
+          "matched_query": "Methylene Blue"
+        },
+        {
+          "tweet_id": "1958923933172158858",
+          "text": "methylene blue cognitive boost protocol",
+          "author_id": "339111798",
+          "created_at": "2025-12-07T21:00:00.000Z",
+          "like_count": 26,
+          "retweet_count": 9,
+          "reply_count": 4,
+          "quote_count": 1,
+          "engagement": 35,
+          "matched_query": "Methylene Blue"
+        }
+      ]
+    },
+    {
+      "term_id": "peptide-therapy",
+      "social_trend_name": "Peptide Therapy",
+      "underlying_topic": "Therapeutic Peptides",
+      "everme_category": "Advanced Medical Therapies",
+      "queries_used": [
+        "Peptide Therapy",
+        "peptide therapy anti-aging results",
+        "BPC-157 TB-500 healing",
+        "therapeutic peptides longevity"
+      ],
+      "window": "7d",
+      "tweet_count": 61,
+      "total_likes": 87,
+      "total_retweets": 10,
+      "avg_likes": 1.4,
+      "avg_retweets": 0.17,
+      "top_likes": 46,
+      "top_retweets": 8,
+      "tweets": [
+        {
+          "tweet_id": "1976659713446751056",
+          "text": "peptide therapy overview from my anti-aging doc",
+          "author_id": "878488534",
+          "created_at": "2025-12-08T13:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 2,
+          "matched_query": "Peptide Therapy"
+        },
+        {
+          "tweet_id": "1976659713446751343",
+          "text": "healing faster with peptides post-surgery",
+          "author_id": "321278458",
+          "created_at": "2025-12-06T17:00:00.000Z",
+          "like_count": 2,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 2,
+          "matched_query": "Peptide Therapy"
+        },
+        {
+          "tweet_id": "1976659713446752347",
+          "text": "peptide therapy overview from my anti-aging doc",
+          "author_id": "895149930",
+          "created_at": "2025-12-07T01:00:00.000Z",
+          "like_count": 1,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 1,
+          "matched_query": "Peptide Therapy"
+        }
+      ]
+    },
+    {
+      "term_id": "red-light-therapy",
+      "social_trend_name": "Red Light Therapy",
+      "underlying_topic": "Photobiomodulation",
+      "everme_category": "Wellness Therapies",
+      "queries_used": [
+        "Red Light Therapy",
+        "photobiomodulation benefits science",
+        "red light therapy at home protocol",
+        "infrared light therapy results"
+      ],
+      "window": "7d",
+      "tweet_count": 41,
+      "total_likes": 117,
+      "total_retweets": 21,
+      "avg_likes": 2.9,
+      "avg_retweets": 0.5,
+      "top_likes": 90,
+      "top_retweets": 15,
+      "tweets": [
+        {
+          "tweet_id": "1972619041354673979",
+          "text": "red light therapy panel setup guide",
+          "author_id": "929506584",
+          "created_at": "2025-12-12T16:00:00.000Z",
+          "like_count": 6,
+          "retweet_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement": 7,
+          "matched_query": "Red Light Therapy"
+        },
+        {
+          "tweet_id": "1972619041354674593",
+          "text": "30 day red light results skin and recovery",
+          "author_id": "544056890",
+          "created_at": "2025-12-12T02:00:00.000Z",
+          "like_count": 5,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement": 5,
+          "matched_query": "Red Light Therapy"
+        },
+        {
+          "tweet_id": "1972619041354676008",
+          "text": "red light therapy panel setup guide",
+          "author_id": "828802398",
+          "created_at": "2025-12-08T09:00:00.000Z",
+          "like_count": 3,
+          "retweet_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement": 4,
+          "matched_query": "Red Light Therapy"
+        }
+      ]
+    },
+    {
+      "term_id": "spermidine",
+      "social_trend_name": "Spermidine",
+      "underlying_topic": "Autophagy",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Spermidine",
+        "spermidine longevity supplement",
+        "spermidine autophagy benefits",
+        "spermidine food sources aging"
+      ],
+      "window": "7d",
+      "tweet_count": 19,
+      "total_likes": 292,
+      "total_retweets": 26,
+      "avg_likes": 15.4,
+      "avg_retweets": 1.38,
+      "top_likes": 167,
+      "top_retweets": 20,
+      "tweets": [
+        {
+          "tweet_id": "1975583095548051296",
+          "text": "spermidine autophagy longevity protocol",
+          "author_id": "358737619",
+          "created_at": "2025-12-12T06:00:00.000Z",
+          "like_count": 17,
+          "retweet_count": 1,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement": 18,
+          "matched_query": "Spermidine"
+        },
+        {
+          "tweet_id": "1975583095548052387",
+          "text": "wheat germ extract spermidine dosing",
+          "author_id": "543109075",
+          "created_at": "2025-12-07T03:00:00.000Z",
+          "like_count": 31,
+          "retweet_count": 3,
+          "reply_count": 5,
+          "quote_count": 0,
+          "engagement": 34,
+          "matched_query": "Spermidine"
+        },
+        {
+          "tweet_id": "1975583095548053150",
+          "text": "spermidine autophagy longevity protocol",
+          "author_id": "794395127",
+          "created_at": "2025-12-08T17:00:00.000Z",
+          "like_count": 38,
+          "retweet_count": 1,
+          "reply_count": 6,
+          "quote_count": 0,
+          "engagement": 39,
+          "matched_query": "Spermidine"
+        }
+      ]
+    }
+  ]
+}

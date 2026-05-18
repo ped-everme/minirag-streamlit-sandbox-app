@@ -1,0 +1,73 @@
+term_id,social_trend_name,collected_at,avg_vpd_90d,top_vpd_90d,video_count_90d,avg_vpd_365d,top_vpd_365d,video_count_365d,is_mock
+akkermansia,Akkermansia,2025-11-01,422,30232,21,325,30137,69,1
+akkermansia,Akkermansia,2025-12-01,631,53218,56,479,39845,152,1
+akkermansia,Akkermansia,2026-01-01,766,57732,57,625,53802,254,1
+akkermansia,Akkermansia,2026-02-01,1012,62628,37,719,62683,109,1
+akkermansia,Akkermansia,2026-03-01,1136,95914,63,894,87143,276,1
+akkermansia,Akkermansia,2026-04-01,1200,109310,64,1002,88651,229,1
+cold-plunge,Cold Plunge,2025-11-01,8896,603981,383,8629,570897,1960,1
+cold-plunge,Cold Plunge,2025-12-01,8641,570708,666,9149,622824,1711,1
+cold-plunge,Cold Plunge,2026-01-01,10762,711476,535,9601,603225,1556,1
+cold-plunge,Cold Plunge,2026-02-01,10544,530240,504,10907,688407,2376,1
+cold-plunge,Cold Plunge,2026-03-01,10558,680857,660,10144,672199,3804,1
+cold-plunge,Cold Plunge,2026-04-01,10073,585616,417,10206,530226,2198,1
+cortisol-face,Cortisol Face,2025-11-01,5860,228028,255,2910,211438,777,1
+cortisol-face,Cortisol Face,2025-12-01,8229,407392,328,4494,354760,791,1
+cortisol-face,Cortisol Face,2026-01-01,9358,404590,528,6158,459727,1959,1
+cortisol-face,Cortisol Face,2026-02-01,8011,347636,312,5745,375143,1527,1
+cortisol-face,Cortisol Face,2026-03-01,6903,318713,485,4842,369767,846,1
+cortisol-face,Cortisol Face,2026-04-01,5973,235760,245,4108,283359,789,1
+fiber-maxing,Fiber-maxing,2025-11-01,238,4494,9,558,13076,131,1
+fiber-maxing,Fiber-maxing,2025-12-01,347,7591,15,999,23413,174,1
+fiber-maxing,Fiber-maxing,2026-01-01,419,7319,17,1209,29438,328,1
+fiber-maxing,Fiber-maxing,2026-02-01,327,8221,36,1041,27754,391,1
+fiber-maxing,Fiber-maxing,2026-03-01,346,7525,15,966,25785,298,1
+fiber-maxing,Fiber-maxing,2026-04-01,264,4803,19,742,19139,116,1
+glp1-revolution,GLP-1 Revolution,2025-11-01,138,6412,12,174,5536,36,1
+glp1-revolution,GLP-1 Revolution,2025-12-01,167,9184,7,250,7435,103,1
+glp1-revolution,GLP-1 Revolution,2026-01-01,225,12138,25,327,9655,59,1
+glp1-revolution,GLP-1 Revolution,2026-02-01,263,12676,10,409,12027,81,1
+glp1-revolution,GLP-1 Revolution,2026-03-01,338,13331,15,440,14420,117,1
+glp1-revolution,GLP-1 Revolution,2026-04-01,379,18619,14,514,18413,128,1
+methylene-blue,Methylene Blue,2025-11-01,946,21769,71,658,22083,262,1
+methylene-blue,Methylene Blue,2025-12-01,811,20827,80,610,19915,102,1
+methylene-blue,Methylene Blue,2026-01-01,733,21078,61,607,18790,182,1
+methylene-blue,Methylene Blue,2026-02-01,655,20067,43,534,20735,104,1
+methylene-blue,Methylene Blue,2026-03-01,651,15102,27,447,15476,70,1
+methylene-blue,Methylene Blue,2026-04-01,479,15456,46,440,14001,133,1
+mouth-taping,Mouth Taping,2025-11-01,9056,1258887,371,16905,1065979,4441,1
+mouth-taping,Mouth Taping,2025-12-01,7261,1014514,513,14078,1086712,2553,1
+mouth-taping,Mouth Taping,2026-01-01,6775,1080094,432,14973,897729,2412,1
+mouth-taping,Mouth Taping,2026-02-01,6061,956355,230,13401,781053,2145,1
+mouth-taping,Mouth Taping,2026-03-01,5396,830352,273,12418,727215,1897,1
+mouth-taping,Mouth Taping,2026-04-01,4540,804095,192,10887,717720,2922,1
+peptide-therapy,Peptide Therapy,2025-11-01,195,18155,12,208,16857,74,1
+peptide-therapy,Peptide Therapy,2025-12-01,306,24173,14,280,23296,56,1
+peptide-therapy,Peptide Therapy,2026-01-01,373,26559,26,382,25057,92,1
+peptide-therapy,Peptide Therapy,2026-02-01,407,31955,30,478,35445,71,1
+peptide-therapy,Peptide Therapy,2026-03-01,513,46468,20,562,41374,203,1
+peptide-therapy,Peptide Therapy,2026-04-01,612,49484,37,628,44938,92,1
+red-light-therapy,Red Light Therapy,2025-11-01,623,18429,69,426,18155,94,1
+red-light-therapy,Red Light Therapy,2025-12-01,831,24514,42,563,25240,142,1
+red-light-therapy,Red Light Therapy,2026-01-01,1084,38673,66,746,30728,261,1
+red-light-therapy,Red Light Therapy,2026-02-01,1056,35407,56,924,43367,189,1
+red-light-therapy,Red Light Therapy,2026-03-01,1324,51531,126,1032,47266,397,1
+red-light-therapy,Red Light Therapy,2026-04-01,1484,62407,64,1216,46984,284,1
+spermidine,Spermidine,2025-11-01,200,7754,8,275,7916,56,1
+spermidine,Spermidine,2025-12-01,194,9041,9,275,8297,61,1
+spermidine,Spermidine,2026-01-01,251,9528,20,344,9413,87,1
+spermidine,Spermidine,2026-02-01,289,10992,12,374,10281,167,1
+spermidine,Spermidine,2026-03-01,299,12479,15,431,12433,74,1
+spermidine,Spermidine,2026-04-01,327,15304,13,416,15031,110,1
+urolithin-a,Urolithin A,2025-11-01,173,5266,18,129,4827,36,1
+urolithin-a,Urolithin A,2025-12-01,211,7811,9,168,5947,32,1
+urolithin-a,Urolithin A,2026-01-01,252,10016,16,227,8462,55,1
+urolithin-a,Urolithin A,2026-02-01,351,9278,14,285,10680,122,1
+urolithin-a,Urolithin A,2026-03-01,359,12232,15,332,13232,62,1
+urolithin-a,Urolithin A,2026-04-01,476,13181,18,380,14220,133,1
+wolverine-stack,Wolverine Stack,2025-11-01,65,5086,7,62,5332,17,1
+wolverine-stack,Wolverine Stack,2025-12-01,87,7122,3,89,7508,29,1
+wolverine-stack,Wolverine Stack,2026-01-01,121,9677,8,117,9244,25,1
+wolverine-stack,Wolverine Stack,2026-02-01,133,11547,5,133,11586,32,1
+wolverine-stack,Wolverine Stack,2026-03-01,137,15344,6,163,11690,24,1
+wolverine-stack,Wolverine Stack,2026-04-01,333,35777,26,337,22319,143,1

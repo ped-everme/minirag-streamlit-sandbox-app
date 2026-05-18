@@ -1,0 +1,3242 @@
+{
+  "source": "google_trends",
+  "collected_at": "2026-01-01T12:00:00Z",
+  "windows": [
+    "90d",
+    "365d"
+  ],
+  "term_count": 12,
+  "note": "MOCK DATA — simulated for historical analysis",
+  "terms": [
+    {
+      "term_id": "wolverine-stack",
+      "social_trend_name": "Wolverine Stack",
+      "underlying_topic": "Peptides",
+      "everme_category": "Supplements",
+      "search_term_used": "Wolverine Stack",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 15,
+          "avg_score": 12,
+          "peak_score": 15,
+          "peak_date": "2025-11-11",
+          "velocity": 0.039,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 10
+            },
+            {
+              "date": "2025-10-10",
+              "score": 12
+            },
+            {
+              "date": "2025-10-17",
+              "score": 13
+            },
+            {
+              "date": "2025-10-24",
+              "score": 11
+            },
+            {
+              "date": "2025-10-31",
+              "score": 10
+            },
+            {
+              "date": "2025-11-07",
+              "score": 14
+            },
+            {
+              "date": "2025-11-14",
+              "score": 11
+            },
+            {
+              "date": "2025-11-21",
+              "score": 12
+            },
+            {
+              "date": "2025-11-28",
+              "score": 10
+            },
+            {
+              "date": "2025-12-05",
+              "score": 14
+            },
+            {
+              "date": "2025-12-12",
+              "score": 14
+            },
+            {
+              "date": "2025-12-19",
+              "score": 14
+            },
+            {
+              "date": "2025-12-26",
+              "score": 13
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 15,
+          "avg_score": 5,
+          "peak_score": 9,
+          "peak_date": "2025-07-12",
+          "velocity": 0.084,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 6
+            },
+            {
+              "date": "2025-01-08",
+              "score": 6
+            },
+            {
+              "date": "2025-01-15",
+              "score": 4
+            },
+            {
+              "date": "2025-01-22",
+              "score": 6
+            },
+            {
+              "date": "2025-01-29",
+              "score": 4
+            },
+            {
+              "date": "2025-02-05",
+              "score": 4
+            },
+            {
+              "date": "2025-02-12",
+              "score": 4
+            },
+            {
+              "date": "2025-02-19",
+              "score": 4
+            },
+            {
+              "date": "2025-02-26",
+              "score": 4
+            },
+            {
+              "date": "2025-03-05",
+              "score": 6
+            },
+            {
+              "date": "2025-03-12",
+              "score": 6
+            },
+            {
+              "date": "2025-03-19",
+              "score": 4
+            },
+            {
+              "date": "2025-03-26",
+              "score": 4
+            },
+            {
+              "date": "2025-04-02",
+              "score": 6
+            },
+            {
+              "date": "2025-04-09",
+              "score": 5
+            },
+            {
+              "date": "2025-04-16",
+              "score": 5
+            },
+            {
+              "date": "2025-04-23",
+              "score": 5
+            },
+            {
+              "date": "2025-04-30",
+              "score": 4
+            },
+            {
+              "date": "2025-05-07",
+              "score": 5
+            },
+            {
+              "date": "2025-05-14",
+              "score": 6
+            },
+            {
+              "date": "2025-05-21",
+              "score": 5
+            },
+            {
+              "date": "2025-05-28",
+              "score": 5
+            },
+            {
+              "date": "2025-06-04",
+              "score": 4
+            },
+            {
+              "date": "2025-06-11",
+              "score": 4
+            },
+            {
+              "date": "2025-06-18",
+              "score": 6
+            },
+            {
+              "date": "2025-06-25",
+              "score": 5
+            },
+            {
+              "date": "2025-07-02",
+              "score": 5
+            },
+            {
+              "date": "2025-07-09",
+              "score": 6
+            },
+            {
+              "date": "2025-07-16",
+              "score": 4
+            },
+            {
+              "date": "2025-07-23",
+              "score": 5
+            },
+            {
+              "date": "2025-07-30",
+              "score": 5
+            },
+            {
+              "date": "2025-08-06",
+              "score": 6
+            },
+            {
+              "date": "2025-08-13",
+              "score": 5
+            },
+            {
+              "date": "2025-08-20",
+              "score": 4
+            },
+            {
+              "date": "2025-08-27",
+              "score": 5
+            },
+            {
+              "date": "2025-09-03",
+              "score": 4
+            },
+            {
+              "date": "2025-09-10",
+              "score": 4
+            },
+            {
+              "date": "2025-09-17",
+              "score": 5
+            },
+            {
+              "date": "2025-09-24",
+              "score": 5
+            },
+            {
+              "date": "2025-10-01",
+              "score": 5
+            },
+            {
+              "date": "2025-10-08",
+              "score": 6
+            },
+            {
+              "date": "2025-10-15",
+              "score": 4
+            },
+            {
+              "date": "2025-10-22",
+              "score": 5
+            },
+            {
+              "date": "2025-10-29",
+              "score": 6
+            },
+            {
+              "date": "2025-11-05",
+              "score": 4
+            },
+            {
+              "date": "2025-11-12",
+              "score": 4
+            },
+            {
+              "date": "2025-11-19",
+              "score": 4
+            },
+            {
+              "date": "2025-11-26",
+              "score": 5
+            },
+            {
+              "date": "2025-12-03",
+              "score": 4
+            },
+            {
+              "date": "2025-12-10",
+              "score": 4
+            },
+            {
+              "date": "2025-12-17",
+              "score": 4
+            },
+            {
+              "date": "2025-12-24",
+              "score": 4
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "fiber-maxing",
+      "social_trend_name": "Fiber-maxing",
+      "underlying_topic": "Dietary Fiber",
+      "everme_category": "Diet & Nutrition",
+      "search_term_used": "Fiber-maxing",
+      "windows": {
+        "90d": {
+          "low_data": true,
+          "current_score": 0,
+          "avg_score": 0,
+          "peak_score": 0,
+          "peak_date": null,
+          "velocity": 0.0,
+          "interest_over_time": [],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": true,
+          "current_score": 0,
+          "avg_score": 0,
+          "peak_score": 0,
+          "peak_date": null,
+          "velocity": 0.0,
+          "interest_over_time": [],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "cortisol-face",
+      "social_trend_name": "Cortisol Face",
+      "underlying_topic": "Cortisol / Stress Hormones",
+      "everme_category": "Mental Wellness",
+      "search_term_used": "Cortisol Face",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 51,
+          "avg_score": 91,
+          "peak_score": 76,
+          "peak_date": "2025-11-30",
+          "velocity": -0.027,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 92
+            },
+            {
+              "date": "2025-10-10",
+              "score": 86
+            },
+            {
+              "date": "2025-10-17",
+              "score": 77
+            },
+            {
+              "date": "2025-10-24",
+              "score": 76
+            },
+            {
+              "date": "2025-10-31",
+              "score": 100
+            },
+            {
+              "date": "2025-11-07",
+              "score": 100
+            },
+            {
+              "date": "2025-11-14",
+              "score": 81
+            },
+            {
+              "date": "2025-11-21",
+              "score": 86
+            },
+            {
+              "date": "2025-11-28",
+              "score": 95
+            },
+            {
+              "date": "2025-12-05",
+              "score": 100
+            },
+            {
+              "date": "2025-12-12",
+              "score": 82
+            },
+            {
+              "date": "2025-12-19",
+              "score": 100
+            },
+            {
+              "date": "2025-12-26",
+              "score": 100
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 51,
+          "avg_score": 100,
+          "peak_score": 100,
+          "peak_date": "2025-10-14",
+          "velocity": 0.123,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 100
+            },
+            {
+              "date": "2025-01-08",
+              "score": 100
+            },
+            {
+              "date": "2025-01-15",
+              "score": 100
+            },
+            {
+              "date": "2025-01-22",
+              "score": 96
+            },
+            {
+              "date": "2025-01-29",
+              "score": 100
+            },
+            {
+              "date": "2025-02-05",
+              "score": 94
+            },
+            {
+              "date": "2025-02-12",
+              "score": 100
+            },
+            {
+              "date": "2025-02-19",
+              "score": 78
+            },
+            {
+              "date": "2025-02-26",
+              "score": 83
+            },
+            {
+              "date": "2025-03-05",
+              "score": 77
+            },
+            {
+              "date": "2025-03-12",
+              "score": 100
+            },
+            {
+              "date": "2025-03-19",
+              "score": 100
+            },
+            {
+              "date": "2025-03-26",
+              "score": 90
+            },
+            {
+              "date": "2025-04-02",
+              "score": 100
+            },
+            {
+              "date": "2025-04-09",
+              "score": 100
+            },
+            {
+              "date": "2025-04-16",
+              "score": 100
+            },
+            {
+              "date": "2025-04-23",
+              "score": 93
+            },
+            {
+              "date": "2025-04-30",
+              "score": 76
+            },
+            {
+              "date": "2025-05-07",
+              "score": 84
+            },
+            {
+              "date": "2025-05-14",
+              "score": 91
+            },
+            {
+              "date": "2025-05-21",
+              "score": 100
+            },
+            {
+              "date": "2025-05-28",
+              "score": 93
+            },
+            {
+              "date": "2025-06-04",
+              "score": 79
+            },
+            {
+              "date": "2025-06-11",
+              "score": 100
+            },
+            {
+              "date": "2025-06-18",
+              "score": 94
+            },
+            {
+              "date": "2025-06-25",
+              "score": 100
+            },
+            {
+              "date": "2025-07-02",
+              "score": 81
+            },
+            {
+              "date": "2025-07-09",
+              "score": 91
+            },
+            {
+              "date": "2025-07-16",
+              "score": 76
+            },
+            {
+              "date": "2025-07-23",
+              "score": 91
+            },
+            {
+              "date": "2025-07-30",
+              "score": 98
+            },
+            {
+              "date": "2025-08-06",
+              "score": 100
+            },
+            {
+              "date": "2025-08-13",
+              "score": 100
+            },
+            {
+              "date": "2025-08-20",
+              "score": 100
+            },
+            {
+              "date": "2025-08-27",
+              "score": 94
+            },
+            {
+              "date": "2025-09-03",
+              "score": 100
+            },
+            {
+              "date": "2025-09-10",
+              "score": 100
+            },
+            {
+              "date": "2025-09-17",
+              "score": 80
+            },
+            {
+              "date": "2025-09-24",
+              "score": 89
+            },
+            {
+              "date": "2025-10-01",
+              "score": 100
+            },
+            {
+              "date": "2025-10-08",
+              "score": 100
+            },
+            {
+              "date": "2025-10-15",
+              "score": 100
+            },
+            {
+              "date": "2025-10-22",
+              "score": 79
+            },
+            {
+              "date": "2025-10-29",
+              "score": 100
+            },
+            {
+              "date": "2025-11-05",
+              "score": 96
+            },
+            {
+              "date": "2025-11-12",
+              "score": 100
+            },
+            {
+              "date": "2025-11-19",
+              "score": 91
+            },
+            {
+              "date": "2025-11-26",
+              "score": 91
+            },
+            {
+              "date": "2025-12-03",
+              "score": 85
+            },
+            {
+              "date": "2025-12-10",
+              "score": 100
+            },
+            {
+              "date": "2025-12-17",
+              "score": 100
+            },
+            {
+              "date": "2025-12-24",
+              "score": 100
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "mouth-taping",
+      "social_trend_name": "Mouth Taping",
+      "underlying_topic": "Nasal Breathing",
+      "everme_category": "Sleep & Recovery",
+      "search_term_used": "Mouth Taping",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 64,
+          "avg_score": 70,
+          "peak_score": 77,
+          "peak_date": "2025-12-03",
+          "velocity": -0.004,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 61
+            },
+            {
+              "date": "2025-10-10",
+              "score": 53
+            },
+            {
+              "date": "2025-10-17",
+              "score": 53
+            },
+            {
+              "date": "2025-10-24",
+              "score": 80
+            },
+            {
+              "date": "2025-10-31",
+              "score": 73
+            },
+            {
+              "date": "2025-11-07",
+              "score": 53
+            },
+            {
+              "date": "2025-11-14",
+              "score": 69
+            },
+            {
+              "date": "2025-11-21",
+              "score": 57
+            },
+            {
+              "date": "2025-11-28",
+              "score": 86
+            },
+            {
+              "date": "2025-12-05",
+              "score": 54
+            },
+            {
+              "date": "2025-12-12",
+              "score": 71
+            },
+            {
+              "date": "2025-12-19",
+              "score": 71
+            },
+            {
+              "date": "2025-12-26",
+              "score": 64
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 64,
+          "avg_score": 75,
+          "peak_score": 100,
+          "peak_date": "2025-09-07",
+          "velocity": -0.099,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 83
+            },
+            {
+              "date": "2025-01-08",
+              "score": 67
+            },
+            {
+              "date": "2025-01-15",
+              "score": 85
+            },
+            {
+              "date": "2025-01-22",
+              "score": 71
+            },
+            {
+              "date": "2025-01-29",
+              "score": 77
+            },
+            {
+              "date": "2025-02-05",
+              "score": 68
+            },
+            {
+              "date": "2025-02-12",
+              "score": 79
+            },
+            {
+              "date": "2025-02-19",
+              "score": 71
+            },
+            {
+              "date": "2025-02-26",
+              "score": 82
+            },
+            {
+              "date": "2025-03-05",
+              "score": 73
+            },
+            {
+              "date": "2025-03-12",
+              "score": 88
+            },
+            {
+              "date": "2025-03-19",
+              "score": 93
+            },
+            {
+              "date": "2025-03-26",
+              "score": 61
+            },
+            {
+              "date": "2025-04-02",
+              "score": 70
+            },
+            {
+              "date": "2025-04-09",
+              "score": 79
+            },
+            {
+              "date": "2025-04-16",
+              "score": 57
+            },
+            {
+              "date": "2025-04-23",
+              "score": 58
+            },
+            {
+              "date": "2025-04-30",
+              "score": 57
+            },
+            {
+              "date": "2025-05-07",
+              "score": 60
+            },
+            {
+              "date": "2025-05-14",
+              "score": 68
+            },
+            {
+              "date": "2025-05-21",
+              "score": 82
+            },
+            {
+              "date": "2025-05-28",
+              "score": 73
+            },
+            {
+              "date": "2025-06-04",
+              "score": 63
+            },
+            {
+              "date": "2025-06-11",
+              "score": 63
+            },
+            {
+              "date": "2025-06-18",
+              "score": 90
+            },
+            {
+              "date": "2025-06-25",
+              "score": 70
+            },
+            {
+              "date": "2025-07-02",
+              "score": 90
+            },
+            {
+              "date": "2025-07-09",
+              "score": 93
+            },
+            {
+              "date": "2025-07-16",
+              "score": 91
+            },
+            {
+              "date": "2025-07-23",
+              "score": 89
+            },
+            {
+              "date": "2025-07-30",
+              "score": 66
+            },
+            {
+              "date": "2025-08-06",
+              "score": 86
+            },
+            {
+              "date": "2025-08-13",
+              "score": 60
+            },
+            {
+              "date": "2025-08-20",
+              "score": 92
+            },
+            {
+              "date": "2025-08-27",
+              "score": 59
+            },
+            {
+              "date": "2025-09-03",
+              "score": 69
+            },
+            {
+              "date": "2025-09-10",
+              "score": 79
+            },
+            {
+              "date": "2025-09-17",
+              "score": 87
+            },
+            {
+              "date": "2025-09-24",
+              "score": 66
+            },
+            {
+              "date": "2025-10-01",
+              "score": 63
+            },
+            {
+              "date": "2025-10-08",
+              "score": 61
+            },
+            {
+              "date": "2025-10-15",
+              "score": 74
+            },
+            {
+              "date": "2025-10-22",
+              "score": 61
+            },
+            {
+              "date": "2025-10-29",
+              "score": 89
+            },
+            {
+              "date": "2025-11-05",
+              "score": 84
+            },
+            {
+              "date": "2025-11-12",
+              "score": 90
+            },
+            {
+              "date": "2025-11-19",
+              "score": 92
+            },
+            {
+              "date": "2025-11-26",
+              "score": 72
+            },
+            {
+              "date": "2025-12-03",
+              "score": 73
+            },
+            {
+              "date": "2025-12-10",
+              "score": 61
+            },
+            {
+              "date": "2025-12-17",
+              "score": 76
+            },
+            {
+              "date": "2025-12-24",
+              "score": 78
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "cold-plunge",
+      "social_trend_name": "Cold Plunge",
+      "underlying_topic": "Cold Thermogenesis",
+      "everme_category": "Wellness Therapies",
+      "search_term_used": "Cold Plunge",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 49,
+          "avg_score": 44,
+          "peak_score": 70,
+          "peak_date": "2025-12-13",
+          "velocity": 0.106,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 35
+            },
+            {
+              "date": "2025-10-10",
+              "score": 50
+            },
+            {
+              "date": "2025-10-17",
+              "score": 49
+            },
+            {
+              "date": "2025-10-24",
+              "score": 41
+            },
+            {
+              "date": "2025-10-31",
+              "score": 51
+            },
+            {
+              "date": "2025-11-07",
+              "score": 38
+            },
+            {
+              "date": "2025-11-14",
+              "score": 47
+            },
+            {
+              "date": "2025-11-21",
+              "score": 52
+            },
+            {
+              "date": "2025-11-28",
+              "score": 48
+            },
+            {
+              "date": "2025-12-05",
+              "score": 35
+            },
+            {
+              "date": "2025-12-12",
+              "score": 44
+            },
+            {
+              "date": "2025-12-19",
+              "score": 38
+            },
+            {
+              "date": "2025-12-26",
+              "score": 48
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 49,
+          "avg_score": 72,
+          "peak_score": 100,
+          "peak_date": "2025-09-26",
+          "velocity": -0.016,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 62
+            },
+            {
+              "date": "2025-01-08",
+              "score": 75
+            },
+            {
+              "date": "2025-01-15",
+              "score": 73
+            },
+            {
+              "date": "2025-01-22",
+              "score": 85
+            },
+            {
+              "date": "2025-01-29",
+              "score": 81
+            },
+            {
+              "date": "2025-02-05",
+              "score": 65
+            },
+            {
+              "date": "2025-02-12",
+              "score": 70
+            },
+            {
+              "date": "2025-02-19",
+              "score": 60
+            },
+            {
+              "date": "2025-02-26",
+              "score": 72
+            },
+            {
+              "date": "2025-03-05",
+              "score": 87
+            },
+            {
+              "date": "2025-03-12",
+              "score": 62
+            },
+            {
+              "date": "2025-03-19",
+              "score": 67
+            },
+            {
+              "date": "2025-03-26",
+              "score": 89
+            },
+            {
+              "date": "2025-04-02",
+              "score": 85
+            },
+            {
+              "date": "2025-04-09",
+              "score": 72
+            },
+            {
+              "date": "2025-04-16",
+              "score": 82
+            },
+            {
+              "date": "2025-04-23",
+              "score": 61
+            },
+            {
+              "date": "2025-04-30",
+              "score": 64
+            },
+            {
+              "date": "2025-05-07",
+              "score": 60
+            },
+            {
+              "date": "2025-05-14",
+              "score": 65
+            },
+            {
+              "date": "2025-05-21",
+              "score": 85
+            },
+            {
+              "date": "2025-05-28",
+              "score": 77
+            },
+            {
+              "date": "2025-06-04",
+              "score": 59
+            },
+            {
+              "date": "2025-06-11",
+              "score": 86
+            },
+            {
+              "date": "2025-06-18",
+              "score": 81
+            },
+            {
+              "date": "2025-06-25",
+              "score": 63
+            },
+            {
+              "date": "2025-07-02",
+              "score": 86
+            },
+            {
+              "date": "2025-07-09",
+              "score": 61
+            },
+            {
+              "date": "2025-07-16",
+              "score": 55
+            },
+            {
+              "date": "2025-07-23",
+              "score": 78
+            },
+            {
+              "date": "2025-07-30",
+              "score": 70
+            },
+            {
+              "date": "2025-08-06",
+              "score": 64
+            },
+            {
+              "date": "2025-08-13",
+              "score": 87
+            },
+            {
+              "date": "2025-08-20",
+              "score": 57
+            },
+            {
+              "date": "2025-08-27",
+              "score": 70
+            },
+            {
+              "date": "2025-09-03",
+              "score": 59
+            },
+            {
+              "date": "2025-09-10",
+              "score": 72
+            },
+            {
+              "date": "2025-09-17",
+              "score": 72
+            },
+            {
+              "date": "2025-09-24",
+              "score": 56
+            },
+            {
+              "date": "2025-10-01",
+              "score": 64
+            },
+            {
+              "date": "2025-10-08",
+              "score": 58
+            },
+            {
+              "date": "2025-10-15",
+              "score": 77
+            },
+            {
+              "date": "2025-10-22",
+              "score": 80
+            },
+            {
+              "date": "2025-10-29",
+              "score": 69
+            },
+            {
+              "date": "2025-11-05",
+              "score": 65
+            },
+            {
+              "date": "2025-11-12",
+              "score": 68
+            },
+            {
+              "date": "2025-11-19",
+              "score": 75
+            },
+            {
+              "date": "2025-11-26",
+              "score": 73
+            },
+            {
+              "date": "2025-12-03",
+              "score": 72
+            },
+            {
+              "date": "2025-12-10",
+              "score": 70
+            },
+            {
+              "date": "2025-12-17",
+              "score": 79
+            },
+            {
+              "date": "2025-12-24",
+              "score": 77
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "glp1-revolution",
+      "social_trend_name": "GLP-1 Revolution",
+      "underlying_topic": "GLP-1 Receptor Agonists",
+      "everme_category": "Prescription Medications",
+      "search_term_used": "GLP-1 Revolution",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 31,
+          "avg_score": 14,
+          "peak_score": 32,
+          "peak_date": "2025-12-10",
+          "velocity": 0.04,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 12
+            },
+            {
+              "date": "2025-10-10",
+              "score": 14
+            },
+            {
+              "date": "2025-10-17",
+              "score": 12
+            },
+            {
+              "date": "2025-10-24",
+              "score": 17
+            },
+            {
+              "date": "2025-10-31",
+              "score": 15
+            },
+            {
+              "date": "2025-11-07",
+              "score": 13
+            },
+            {
+              "date": "2025-11-14",
+              "score": 13
+            },
+            {
+              "date": "2025-11-21",
+              "score": 12
+            },
+            {
+              "date": "2025-11-28",
+              "score": 16
+            },
+            {
+              "date": "2025-12-05",
+              "score": 15
+            },
+            {
+              "date": "2025-12-12",
+              "score": 14
+            },
+            {
+              "date": "2025-12-19",
+              "score": 12
+            },
+            {
+              "date": "2025-12-26",
+              "score": 12
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 31,
+          "avg_score": 5,
+          "peak_score": 8,
+          "peak_date": "2025-12-22",
+          "velocity": 0.091,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 4
+            },
+            {
+              "date": "2025-01-08",
+              "score": 5
+            },
+            {
+              "date": "2025-01-15",
+              "score": 6
+            },
+            {
+              "date": "2025-01-22",
+              "score": 5
+            },
+            {
+              "date": "2025-01-29",
+              "score": 5
+            },
+            {
+              "date": "2025-02-05",
+              "score": 6
+            },
+            {
+              "date": "2025-02-12",
+              "score": 4
+            },
+            {
+              "date": "2025-02-19",
+              "score": 5
+            },
+            {
+              "date": "2025-02-26",
+              "score": 4
+            },
+            {
+              "date": "2025-03-05",
+              "score": 4
+            },
+            {
+              "date": "2025-03-12",
+              "score": 6
+            },
+            {
+              "date": "2025-03-19",
+              "score": 4
+            },
+            {
+              "date": "2025-03-26",
+              "score": 4
+            },
+            {
+              "date": "2025-04-02",
+              "score": 5
+            },
+            {
+              "date": "2025-04-09",
+              "score": 5
+            },
+            {
+              "date": "2025-04-16",
+              "score": 4
+            },
+            {
+              "date": "2025-04-23",
+              "score": 4
+            },
+            {
+              "date": "2025-04-30",
+              "score": 4
+            },
+            {
+              "date": "2025-05-07",
+              "score": 5
+            },
+            {
+              "date": "2025-05-14",
+              "score": 6
+            },
+            {
+              "date": "2025-05-21",
+              "score": 5
+            },
+            {
+              "date": "2025-05-28",
+              "score": 6
+            },
+            {
+              "date": "2025-06-04",
+              "score": 5
+            },
+            {
+              "date": "2025-06-11",
+              "score": 5
+            },
+            {
+              "date": "2025-06-18",
+              "score": 4
+            },
+            {
+              "date": "2025-06-25",
+              "score": 4
+            },
+            {
+              "date": "2025-07-02",
+              "score": 6
+            },
+            {
+              "date": "2025-07-09",
+              "score": 5
+            },
+            {
+              "date": "2025-07-16",
+              "score": 6
+            },
+            {
+              "date": "2025-07-23",
+              "score": 6
+            },
+            {
+              "date": "2025-07-30",
+              "score": 5
+            },
+            {
+              "date": "2025-08-06",
+              "score": 4
+            },
+            {
+              "date": "2025-08-13",
+              "score": 4
+            },
+            {
+              "date": "2025-08-20",
+              "score": 4
+            },
+            {
+              "date": "2025-08-27",
+              "score": 5
+            },
+            {
+              "date": "2025-09-03",
+              "score": 6
+            },
+            {
+              "date": "2025-09-10",
+              "score": 5
+            },
+            {
+              "date": "2025-09-17",
+              "score": 6
+            },
+            {
+              "date": "2025-09-24",
+              "score": 6
+            },
+            {
+              "date": "2025-10-01",
+              "score": 4
+            },
+            {
+              "date": "2025-10-08",
+              "score": 5
+            },
+            {
+              "date": "2025-10-15",
+              "score": 5
+            },
+            {
+              "date": "2025-10-22",
+              "score": 4
+            },
+            {
+              "date": "2025-10-29",
+              "score": 5
+            },
+            {
+              "date": "2025-11-05",
+              "score": 6
+            },
+            {
+              "date": "2025-11-12",
+              "score": 6
+            },
+            {
+              "date": "2025-11-19",
+              "score": 6
+            },
+            {
+              "date": "2025-11-26",
+              "score": 6
+            },
+            {
+              "date": "2025-12-03",
+              "score": 6
+            },
+            {
+              "date": "2025-12-10",
+              "score": 5
+            },
+            {
+              "date": "2025-12-17",
+              "score": 4
+            },
+            {
+              "date": "2025-12-24",
+              "score": 5
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "urolithin-a",
+      "social_trend_name": "Urolithin A",
+      "underlying_topic": "Mitochondrial Health",
+      "everme_category": "Supplements",
+      "search_term_used": "Urolithin A",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 24,
+          "avg_score": 12,
+          "peak_score": 36,
+          "peak_date": "2025-11-15",
+          "velocity": 0.17,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 15
+            },
+            {
+              "date": "2025-10-10",
+              "score": 11
+            },
+            {
+              "date": "2025-10-17",
+              "score": 9
+            },
+            {
+              "date": "2025-10-24",
+              "score": 12
+            },
+            {
+              "date": "2025-10-31",
+              "score": 13
+            },
+            {
+              "date": "2025-11-07",
+              "score": 12
+            },
+            {
+              "date": "2025-11-14",
+              "score": 10
+            },
+            {
+              "date": "2025-11-21",
+              "score": 10
+            },
+            {
+              "date": "2025-11-28",
+              "score": 15
+            },
+            {
+              "date": "2025-12-05",
+              "score": 11
+            },
+            {
+              "date": "2025-12-12",
+              "score": 10
+            },
+            {
+              "date": "2025-12-19",
+              "score": 11
+            },
+            {
+              "date": "2025-12-26",
+              "score": 13
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 24,
+          "avg_score": 21,
+          "peak_score": 46,
+          "peak_date": "2025-08-10",
+          "velocity": 0.116,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 18
+            },
+            {
+              "date": "2025-01-08",
+              "score": 25
+            },
+            {
+              "date": "2025-01-15",
+              "score": 19
+            },
+            {
+              "date": "2025-01-22",
+              "score": 19
+            },
+            {
+              "date": "2025-01-29",
+              "score": 22
+            },
+            {
+              "date": "2025-02-05",
+              "score": 26
+            },
+            {
+              "date": "2025-02-12",
+              "score": 19
+            },
+            {
+              "date": "2025-02-19",
+              "score": 18
+            },
+            {
+              "date": "2025-02-26",
+              "score": 22
+            },
+            {
+              "date": "2025-03-05",
+              "score": 23
+            },
+            {
+              "date": "2025-03-12",
+              "score": 25
+            },
+            {
+              "date": "2025-03-19",
+              "score": 17
+            },
+            {
+              "date": "2025-03-26",
+              "score": 24
+            },
+            {
+              "date": "2025-04-02",
+              "score": 22
+            },
+            {
+              "date": "2025-04-09",
+              "score": 24
+            },
+            {
+              "date": "2025-04-16",
+              "score": 19
+            },
+            {
+              "date": "2025-04-23",
+              "score": 17
+            },
+            {
+              "date": "2025-04-30",
+              "score": 16
+            },
+            {
+              "date": "2025-05-07",
+              "score": 25
+            },
+            {
+              "date": "2025-05-14",
+              "score": 17
+            },
+            {
+              "date": "2025-05-21",
+              "score": 23
+            },
+            {
+              "date": "2025-05-28",
+              "score": 21
+            },
+            {
+              "date": "2025-06-04",
+              "score": 19
+            },
+            {
+              "date": "2025-06-11",
+              "score": 22
+            },
+            {
+              "date": "2025-06-18",
+              "score": 17
+            },
+            {
+              "date": "2025-06-25",
+              "score": 21
+            },
+            {
+              "date": "2025-07-02",
+              "score": 16
+            },
+            {
+              "date": "2025-07-09",
+              "score": 19
+            },
+            {
+              "date": "2025-07-16",
+              "score": 21
+            },
+            {
+              "date": "2025-07-23",
+              "score": 18
+            },
+            {
+              "date": "2025-07-30",
+              "score": 24
+            },
+            {
+              "date": "2025-08-06",
+              "score": 17
+            },
+            {
+              "date": "2025-08-13",
+              "score": 21
+            },
+            {
+              "date": "2025-08-20",
+              "score": 16
+            },
+            {
+              "date": "2025-08-27",
+              "score": 19
+            },
+            {
+              "date": "2025-09-03",
+              "score": 25
+            },
+            {
+              "date": "2025-09-10",
+              "score": 16
+            },
+            {
+              "date": "2025-09-17",
+              "score": 17
+            },
+            {
+              "date": "2025-09-24",
+              "score": 25
+            },
+            {
+              "date": "2025-10-01",
+              "score": 24
+            },
+            {
+              "date": "2025-10-08",
+              "score": 21
+            },
+            {
+              "date": "2025-10-15",
+              "score": 26
+            },
+            {
+              "date": "2025-10-22",
+              "score": 22
+            },
+            {
+              "date": "2025-10-29",
+              "score": 26
+            },
+            {
+              "date": "2025-11-05",
+              "score": 23
+            },
+            {
+              "date": "2025-11-12",
+              "score": 17
+            },
+            {
+              "date": "2025-11-19",
+              "score": 23
+            },
+            {
+              "date": "2025-11-26",
+              "score": 20
+            },
+            {
+              "date": "2025-12-03",
+              "score": 25
+            },
+            {
+              "date": "2025-12-10",
+              "score": 19
+            },
+            {
+              "date": "2025-12-17",
+              "score": 16
+            },
+            {
+              "date": "2025-12-24",
+              "score": 26
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "akkermansia",
+      "social_trend_name": "Akkermansia",
+      "underlying_topic": "Gut Microbiome",
+      "everme_category": "Supplements",
+      "search_term_used": "Akkermansia",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 21,
+          "avg_score": 20,
+          "peak_score": 26,
+          "peak_date": "2025-12-21",
+          "velocity": 0.046,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 24
+            },
+            {
+              "date": "2025-10-10",
+              "score": 24
+            },
+            {
+              "date": "2025-10-17",
+              "score": 21
+            },
+            {
+              "date": "2025-10-24",
+              "score": 17
+            },
+            {
+              "date": "2025-10-31",
+              "score": 19
+            },
+            {
+              "date": "2025-11-07",
+              "score": 24
+            },
+            {
+              "date": "2025-11-14",
+              "score": 23
+            },
+            {
+              "date": "2025-11-21",
+              "score": 16
+            },
+            {
+              "date": "2025-11-28",
+              "score": 23
+            },
+            {
+              "date": "2025-12-05",
+              "score": 18
+            },
+            {
+              "date": "2025-12-12",
+              "score": 19
+            },
+            {
+              "date": "2025-12-19",
+              "score": 17
+            },
+            {
+              "date": "2025-12-26",
+              "score": 18
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 21,
+          "avg_score": 27,
+          "peak_score": 46,
+          "peak_date": "2025-11-06",
+          "velocity": 0.051,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 25
+            },
+            {
+              "date": "2025-01-08",
+              "score": 32
+            },
+            {
+              "date": "2025-01-15",
+              "score": 26
+            },
+            {
+              "date": "2025-01-22",
+              "score": 22
+            },
+            {
+              "date": "2025-01-29",
+              "score": 26
+            },
+            {
+              "date": "2025-02-05",
+              "score": 24
+            },
+            {
+              "date": "2025-02-12",
+              "score": 33
+            },
+            {
+              "date": "2025-02-19",
+              "score": 30
+            },
+            {
+              "date": "2025-02-26",
+              "score": 27
+            },
+            {
+              "date": "2025-03-05",
+              "score": 26
+            },
+            {
+              "date": "2025-03-12",
+              "score": 26
+            },
+            {
+              "date": "2025-03-19",
+              "score": 26
+            },
+            {
+              "date": "2025-03-26",
+              "score": 21
+            },
+            {
+              "date": "2025-04-02",
+              "score": 28
+            },
+            {
+              "date": "2025-04-09",
+              "score": 33
+            },
+            {
+              "date": "2025-04-16",
+              "score": 26
+            },
+            {
+              "date": "2025-04-23",
+              "score": 30
+            },
+            {
+              "date": "2025-04-30",
+              "score": 29
+            },
+            {
+              "date": "2025-05-07",
+              "score": 24
+            },
+            {
+              "date": "2025-05-14",
+              "score": 24
+            },
+            {
+              "date": "2025-05-21",
+              "score": 27
+            },
+            {
+              "date": "2025-05-28",
+              "score": 22
+            },
+            {
+              "date": "2025-06-04",
+              "score": 28
+            },
+            {
+              "date": "2025-06-11",
+              "score": 28
+            },
+            {
+              "date": "2025-06-18",
+              "score": 24
+            },
+            {
+              "date": "2025-06-25",
+              "score": 30
+            },
+            {
+              "date": "2025-07-02",
+              "score": 26
+            },
+            {
+              "date": "2025-07-09",
+              "score": 26
+            },
+            {
+              "date": "2025-07-16",
+              "score": 20
+            },
+            {
+              "date": "2025-07-23",
+              "score": 31
+            },
+            {
+              "date": "2025-07-30",
+              "score": 32
+            },
+            {
+              "date": "2025-08-06",
+              "score": 26
+            },
+            {
+              "date": "2025-08-13",
+              "score": 21
+            },
+            {
+              "date": "2025-08-20",
+              "score": 21
+            },
+            {
+              "date": "2025-08-27",
+              "score": 31
+            },
+            {
+              "date": "2025-09-03",
+              "score": 29
+            },
+            {
+              "date": "2025-09-10",
+              "score": 25
+            },
+            {
+              "date": "2025-09-17",
+              "score": 22
+            },
+            {
+              "date": "2025-09-24",
+              "score": 24
+            },
+            {
+              "date": "2025-10-01",
+              "score": 27
+            },
+            {
+              "date": "2025-10-08",
+              "score": 25
+            },
+            {
+              "date": "2025-10-15",
+              "score": 21
+            },
+            {
+              "date": "2025-10-22",
+              "score": 30
+            },
+            {
+              "date": "2025-10-29",
+              "score": 29
+            },
+            {
+              "date": "2025-11-05",
+              "score": 30
+            },
+            {
+              "date": "2025-11-12",
+              "score": 21
+            },
+            {
+              "date": "2025-11-19",
+              "score": 23
+            },
+            {
+              "date": "2025-11-26",
+              "score": 22
+            },
+            {
+              "date": "2025-12-03",
+              "score": 30
+            },
+            {
+              "date": "2025-12-10",
+              "score": 27
+            },
+            {
+              "date": "2025-12-17",
+              "score": 23
+            },
+            {
+              "date": "2025-12-24",
+              "score": 29
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "methylene-blue",
+      "social_trend_name": "Methylene Blue",
+      "underlying_topic": "Cellular Energy",
+      "everme_category": "Supplements",
+      "search_term_used": "Methylene Blue",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 90,
+          "avg_score": 86,
+          "peak_score": 100,
+          "peak_date": "2025-12-27",
+          "velocity": -0.043,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 99
+            },
+            {
+              "date": "2025-10-10",
+              "score": 91
+            },
+            {
+              "date": "2025-10-17",
+              "score": 73
+            },
+            {
+              "date": "2025-10-24",
+              "score": 67
+            },
+            {
+              "date": "2025-10-31",
+              "score": 71
+            },
+            {
+              "date": "2025-11-07",
+              "score": 100
+            },
+            {
+              "date": "2025-11-14",
+              "score": 87
+            },
+            {
+              "date": "2025-11-21",
+              "score": 75
+            },
+            {
+              "date": "2025-11-28",
+              "score": 69
+            },
+            {
+              "date": "2025-12-05",
+              "score": 66
+            },
+            {
+              "date": "2025-12-12",
+              "score": 86
+            },
+            {
+              "date": "2025-12-19",
+              "score": 81
+            },
+            {
+              "date": "2025-12-26",
+              "score": 100
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 90,
+          "avg_score": 93,
+          "peak_score": 100,
+          "peak_date": "2025-10-23",
+          "velocity": -0.325,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 100
+            },
+            {
+              "date": "2025-01-08",
+              "score": 95
+            },
+            {
+              "date": "2025-01-15",
+              "score": 100
+            },
+            {
+              "date": "2025-01-22",
+              "score": 100
+            },
+            {
+              "date": "2025-01-29",
+              "score": 100
+            },
+            {
+              "date": "2025-02-05",
+              "score": 98
+            },
+            {
+              "date": "2025-02-12",
+              "score": 90
+            },
+            {
+              "date": "2025-02-19",
+              "score": 99
+            },
+            {
+              "date": "2025-02-26",
+              "score": 78
+            },
+            {
+              "date": "2025-03-05",
+              "score": 100
+            },
+            {
+              "date": "2025-03-12",
+              "score": 100
+            },
+            {
+              "date": "2025-03-19",
+              "score": 78
+            },
+            {
+              "date": "2025-03-26",
+              "score": 100
+            },
+            {
+              "date": "2025-04-02",
+              "score": 95
+            },
+            {
+              "date": "2025-04-09",
+              "score": 92
+            },
+            {
+              "date": "2025-04-16",
+              "score": 83
+            },
+            {
+              "date": "2025-04-23",
+              "score": 100
+            },
+            {
+              "date": "2025-04-30",
+              "score": 100
+            },
+            {
+              "date": "2025-05-07",
+              "score": 93
+            },
+            {
+              "date": "2025-05-14",
+              "score": 100
+            },
+            {
+              "date": "2025-05-21",
+              "score": 88
+            },
+            {
+              "date": "2025-05-28",
+              "score": 100
+            },
+            {
+              "date": "2025-06-04",
+              "score": 75
+            },
+            {
+              "date": "2025-06-11",
+              "score": 89
+            },
+            {
+              "date": "2025-06-18",
+              "score": 90
+            },
+            {
+              "date": "2025-06-25",
+              "score": 71
+            },
+            {
+              "date": "2025-07-02",
+              "score": 91
+            },
+            {
+              "date": "2025-07-09",
+              "score": 96
+            },
+            {
+              "date": "2025-07-16",
+              "score": 70
+            },
+            {
+              "date": "2025-07-23",
+              "score": 84
+            },
+            {
+              "date": "2025-07-30",
+              "score": 100
+            },
+            {
+              "date": "2025-08-06",
+              "score": 100
+            },
+            {
+              "date": "2025-08-13",
+              "score": 99
+            },
+            {
+              "date": "2025-08-20",
+              "score": 72
+            },
+            {
+              "date": "2025-08-27",
+              "score": 100
+            },
+            {
+              "date": "2025-09-03",
+              "score": 100
+            },
+            {
+              "date": "2025-09-10",
+              "score": 92
+            },
+            {
+              "date": "2025-09-17",
+              "score": 100
+            },
+            {
+              "date": "2025-09-24",
+              "score": 83
+            },
+            {
+              "date": "2025-10-01",
+              "score": 100
+            },
+            {
+              "date": "2025-10-08",
+              "score": 86
+            },
+            {
+              "date": "2025-10-15",
+              "score": 100
+            },
+            {
+              "date": "2025-10-22",
+              "score": 93
+            },
+            {
+              "date": "2025-10-29",
+              "score": 86
+            },
+            {
+              "date": "2025-11-05",
+              "score": 100
+            },
+            {
+              "date": "2025-11-12",
+              "score": 88
+            },
+            {
+              "date": "2025-11-19",
+              "score": 73
+            },
+            {
+              "date": "2025-11-26",
+              "score": 100
+            },
+            {
+              "date": "2025-12-03",
+              "score": 86
+            },
+            {
+              "date": "2025-12-10",
+              "score": 100
+            },
+            {
+              "date": "2025-12-17",
+              "score": 86
+            },
+            {
+              "date": "2025-12-24",
+              "score": 100
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "peptide-therapy",
+      "social_trend_name": "Peptide Therapy",
+      "underlying_topic": "Therapeutic Peptides",
+      "everme_category": "Advanced Medical Therapies",
+      "search_term_used": "Peptide Therapy",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 21,
+          "avg_score": 15,
+          "peak_score": 25,
+          "peak_date": "2025-12-02",
+          "velocity": 0.019,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 12
+            },
+            {
+              "date": "2025-10-10",
+              "score": 18
+            },
+            {
+              "date": "2025-10-17",
+              "score": 15
+            },
+            {
+              "date": "2025-10-24",
+              "score": 18
+            },
+            {
+              "date": "2025-10-31",
+              "score": 16
+            },
+            {
+              "date": "2025-11-07",
+              "score": 13
+            },
+            {
+              "date": "2025-11-14",
+              "score": 17
+            },
+            {
+              "date": "2025-11-21",
+              "score": 15
+            },
+            {
+              "date": "2025-11-28",
+              "score": 16
+            },
+            {
+              "date": "2025-12-05",
+              "score": 13
+            },
+            {
+              "date": "2025-12-12",
+              "score": 16
+            },
+            {
+              "date": "2025-12-19",
+              "score": 16
+            },
+            {
+              "date": "2025-12-26",
+              "score": 16
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 21,
+          "avg_score": 27,
+          "peak_score": 37,
+          "peak_date": "2025-12-15",
+          "velocity": 0.221,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 32
+            },
+            {
+              "date": "2025-01-08",
+              "score": 22
+            },
+            {
+              "date": "2025-01-15",
+              "score": 22
+            },
+            {
+              "date": "2025-01-22",
+              "score": 22
+            },
+            {
+              "date": "2025-01-29",
+              "score": 33
+            },
+            {
+              "date": "2025-02-05",
+              "score": 27
+            },
+            {
+              "date": "2025-02-12",
+              "score": 31
+            },
+            {
+              "date": "2025-02-19",
+              "score": 33
+            },
+            {
+              "date": "2025-02-26",
+              "score": 31
+            },
+            {
+              "date": "2025-03-05",
+              "score": 30
+            },
+            {
+              "date": "2025-03-12",
+              "score": 23
+            },
+            {
+              "date": "2025-03-19",
+              "score": 32
+            },
+            {
+              "date": "2025-03-26",
+              "score": 23
+            },
+            {
+              "date": "2025-04-02",
+              "score": 32
+            },
+            {
+              "date": "2025-04-09",
+              "score": 30
+            },
+            {
+              "date": "2025-04-16",
+              "score": 26
+            },
+            {
+              "date": "2025-04-23",
+              "score": 21
+            },
+            {
+              "date": "2025-04-30",
+              "score": 29
+            },
+            {
+              "date": "2025-05-07",
+              "score": 22
+            },
+            {
+              "date": "2025-05-14",
+              "score": 32
+            },
+            {
+              "date": "2025-05-21",
+              "score": 21
+            },
+            {
+              "date": "2025-05-28",
+              "score": 31
+            },
+            {
+              "date": "2025-06-04",
+              "score": 28
+            },
+            {
+              "date": "2025-06-11",
+              "score": 32
+            },
+            {
+              "date": "2025-06-18",
+              "score": 33
+            },
+            {
+              "date": "2025-06-25",
+              "score": 25
+            },
+            {
+              "date": "2025-07-02",
+              "score": 30
+            },
+            {
+              "date": "2025-07-09",
+              "score": 25
+            },
+            {
+              "date": "2025-07-16",
+              "score": 34
+            },
+            {
+              "date": "2025-07-23",
+              "score": 28
+            },
+            {
+              "date": "2025-07-30",
+              "score": 23
+            },
+            {
+              "date": "2025-08-06",
+              "score": 24
+            },
+            {
+              "date": "2025-08-13",
+              "score": 26
+            },
+            {
+              "date": "2025-08-20",
+              "score": 24
+            },
+            {
+              "date": "2025-08-27",
+              "score": 23
+            },
+            {
+              "date": "2025-09-03",
+              "score": 22
+            },
+            {
+              "date": "2025-09-10",
+              "score": 31
+            },
+            {
+              "date": "2025-09-17",
+              "score": 31
+            },
+            {
+              "date": "2025-09-24",
+              "score": 23
+            },
+            {
+              "date": "2025-10-01",
+              "score": 28
+            },
+            {
+              "date": "2025-10-08",
+              "score": 29
+            },
+            {
+              "date": "2025-10-15",
+              "score": 29
+            },
+            {
+              "date": "2025-10-22",
+              "score": 23
+            },
+            {
+              "date": "2025-10-29",
+              "score": 31
+            },
+            {
+              "date": "2025-11-05",
+              "score": 32
+            },
+            {
+              "date": "2025-11-12",
+              "score": 25
+            },
+            {
+              "date": "2025-11-19",
+              "score": 26
+            },
+            {
+              "date": "2025-11-26",
+              "score": 28
+            },
+            {
+              "date": "2025-12-03",
+              "score": 21
+            },
+            {
+              "date": "2025-12-10",
+              "score": 23
+            },
+            {
+              "date": "2025-12-17",
+              "score": 30
+            },
+            {
+              "date": "2025-12-24",
+              "score": 33
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "red-light-therapy",
+      "social_trend_name": "Red Light Therapy",
+      "underlying_topic": "Photobiomodulation",
+      "everme_category": "Wellness Therapies",
+      "search_term_used": "Red Light Therapy",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 29,
+          "avg_score": 24,
+          "peak_score": 39,
+          "peak_date": "2025-11-27",
+          "velocity": 0.068,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 24
+            },
+            {
+              "date": "2025-10-10",
+              "score": 22
+            },
+            {
+              "date": "2025-10-17",
+              "score": 29
+            },
+            {
+              "date": "2025-10-24",
+              "score": 28
+            },
+            {
+              "date": "2025-10-31",
+              "score": 28
+            },
+            {
+              "date": "2025-11-07",
+              "score": 23
+            },
+            {
+              "date": "2025-11-14",
+              "score": 26
+            },
+            {
+              "date": "2025-11-21",
+              "score": 28
+            },
+            {
+              "date": "2025-11-28",
+              "score": 25
+            },
+            {
+              "date": "2025-12-05",
+              "score": 20
+            },
+            {
+              "date": "2025-12-12",
+              "score": 24
+            },
+            {
+              "date": "2025-12-19",
+              "score": 19
+            },
+            {
+              "date": "2025-12-26",
+              "score": 24
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 29,
+          "avg_score": 24,
+          "peak_score": 32,
+          "peak_date": "2025-10-09",
+          "velocity": 0.192,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 29
+            },
+            {
+              "date": "2025-01-08",
+              "score": 21
+            },
+            {
+              "date": "2025-01-15",
+              "score": 26
+            },
+            {
+              "date": "2025-01-22",
+              "score": 19
+            },
+            {
+              "date": "2025-01-29",
+              "score": 28
+            },
+            {
+              "date": "2025-02-05",
+              "score": 30
+            },
+            {
+              "date": "2025-02-12",
+              "score": 19
+            },
+            {
+              "date": "2025-02-19",
+              "score": 25
+            },
+            {
+              "date": "2025-02-26",
+              "score": 28
+            },
+            {
+              "date": "2025-03-05",
+              "score": 29
+            },
+            {
+              "date": "2025-03-12",
+              "score": 24
+            },
+            {
+              "date": "2025-03-19",
+              "score": 23
+            },
+            {
+              "date": "2025-03-26",
+              "score": 19
+            },
+            {
+              "date": "2025-04-02",
+              "score": 26
+            },
+            {
+              "date": "2025-04-09",
+              "score": 19
+            },
+            {
+              "date": "2025-04-16",
+              "score": 24
+            },
+            {
+              "date": "2025-04-23",
+              "score": 29
+            },
+            {
+              "date": "2025-04-30",
+              "score": 21
+            },
+            {
+              "date": "2025-05-07",
+              "score": 18
+            },
+            {
+              "date": "2025-05-14",
+              "score": 22
+            },
+            {
+              "date": "2025-05-21",
+              "score": 21
+            },
+            {
+              "date": "2025-05-28",
+              "score": 22
+            },
+            {
+              "date": "2025-06-04",
+              "score": 27
+            },
+            {
+              "date": "2025-06-11",
+              "score": 20
+            },
+            {
+              "date": "2025-06-18",
+              "score": 25
+            },
+            {
+              "date": "2025-06-25",
+              "score": 27
+            },
+            {
+              "date": "2025-07-02",
+              "score": 29
+            },
+            {
+              "date": "2025-07-09",
+              "score": 26
+            },
+            {
+              "date": "2025-07-16",
+              "score": 29
+            },
+            {
+              "date": "2025-07-23",
+              "score": 21
+            },
+            {
+              "date": "2025-07-30",
+              "score": 19
+            },
+            {
+              "date": "2025-08-06",
+              "score": 29
+            },
+            {
+              "date": "2025-08-13",
+              "score": 29
+            },
+            {
+              "date": "2025-08-20",
+              "score": 26
+            },
+            {
+              "date": "2025-08-27",
+              "score": 27
+            },
+            {
+              "date": "2025-09-03",
+              "score": 18
+            },
+            {
+              "date": "2025-09-10",
+              "score": 30
+            },
+            {
+              "date": "2025-09-17",
+              "score": 29
+            },
+            {
+              "date": "2025-09-24",
+              "score": 25
+            },
+            {
+              "date": "2025-10-01",
+              "score": 25
+            },
+            {
+              "date": "2025-10-08",
+              "score": 19
+            },
+            {
+              "date": "2025-10-15",
+              "score": 25
+            },
+            {
+              "date": "2025-10-22",
+              "score": 29
+            },
+            {
+              "date": "2025-10-29",
+              "score": 21
+            },
+            {
+              "date": "2025-11-05",
+              "score": 19
+            },
+            {
+              "date": "2025-11-12",
+              "score": 18
+            },
+            {
+              "date": "2025-11-19",
+              "score": 24
+            },
+            {
+              "date": "2025-11-26",
+              "score": 26
+            },
+            {
+              "date": "2025-12-03",
+              "score": 23
+            },
+            {
+              "date": "2025-12-10",
+              "score": 22
+            },
+            {
+              "date": "2025-12-17",
+              "score": 28
+            },
+            {
+              "date": "2025-12-24",
+              "score": 30
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    },
+    {
+      "term_id": "spermidine",
+      "social_trend_name": "Spermidine",
+      "underlying_topic": "Autophagy",
+      "everme_category": "Supplements",
+      "search_term_used": "Spermidine",
+      "windows": {
+        "90d": {
+          "low_data": false,
+          "current_score": 17,
+          "avg_score": 13,
+          "peak_score": 25,
+          "peak_date": "2025-11-23",
+          "velocity": 0.118,
+          "interest_over_time": [
+            {
+              "date": "2025-10-03",
+              "score": 14
+            },
+            {
+              "date": "2025-10-10",
+              "score": 12
+            },
+            {
+              "date": "2025-10-17",
+              "score": 14
+            },
+            {
+              "date": "2025-10-24",
+              "score": 10
+            },
+            {
+              "date": "2025-10-31",
+              "score": 13
+            },
+            {
+              "date": "2025-11-07",
+              "score": 12
+            },
+            {
+              "date": "2025-11-14",
+              "score": 12
+            },
+            {
+              "date": "2025-11-21",
+              "score": 11
+            },
+            {
+              "date": "2025-11-28",
+              "score": 14
+            },
+            {
+              "date": "2025-12-05",
+              "score": 13
+            },
+            {
+              "date": "2025-12-12",
+              "score": 11
+            },
+            {
+              "date": "2025-12-19",
+              "score": 11
+            },
+            {
+              "date": "2025-12-26",
+              "score": 14
+            }
+          ],
+          "rising_queries": []
+        },
+        "365d": {
+          "low_data": false,
+          "current_score": 17,
+          "avg_score": 32,
+          "peak_score": 51,
+          "peak_date": "2025-12-08",
+          "velocity": 0.105,
+          "interest_over_time": [
+            {
+              "date": "2025-01-01",
+              "score": 28
+            },
+            {
+              "date": "2025-01-08",
+              "score": 25
+            },
+            {
+              "date": "2025-01-15",
+              "score": 24
+            },
+            {
+              "date": "2025-01-22",
+              "score": 31
+            },
+            {
+              "date": "2025-01-29",
+              "score": 36
+            },
+            {
+              "date": "2025-02-05",
+              "score": 37
+            },
+            {
+              "date": "2025-02-12",
+              "score": 33
+            },
+            {
+              "date": "2025-02-19",
+              "score": 25
+            },
+            {
+              "date": "2025-02-26",
+              "score": 37
+            },
+            {
+              "date": "2025-03-05",
+              "score": 38
+            },
+            {
+              "date": "2025-03-12",
+              "score": 28
+            },
+            {
+              "date": "2025-03-19",
+              "score": 25
+            },
+            {
+              "date": "2025-03-26",
+              "score": 25
+            },
+            {
+              "date": "2025-04-02",
+              "score": 31
+            },
+            {
+              "date": "2025-04-09",
+              "score": 29
+            },
+            {
+              "date": "2025-04-16",
+              "score": 29
+            },
+            {
+              "date": "2025-04-23",
+              "score": 34
+            },
+            {
+              "date": "2025-04-30",
+              "score": 38
+            },
+            {
+              "date": "2025-05-07",
+              "score": 40
+            },
+            {
+              "date": "2025-05-14",
+              "score": 26
+            },
+            {
+              "date": "2025-05-21",
+              "score": 30
+            },
+            {
+              "date": "2025-05-28",
+              "score": 35
+            },
+            {
+              "date": "2025-06-04",
+              "score": 35
+            },
+            {
+              "date": "2025-06-11",
+              "score": 25
+            },
+            {
+              "date": "2025-06-18",
+              "score": 39
+            },
+            {
+              "date": "2025-06-25",
+              "score": 27
+            },
+            {
+              "date": "2025-07-02",
+              "score": 35
+            },
+            {
+              "date": "2025-07-09",
+              "score": 37
+            },
+            {
+              "date": "2025-07-16",
+              "score": 38
+            },
+            {
+              "date": "2025-07-23",
+              "score": 38
+            },
+            {
+              "date": "2025-07-30",
+              "score": 31
+            },
+            {
+              "date": "2025-08-06",
+              "score": 29
+            },
+            {
+              "date": "2025-08-13",
+              "score": 30
+            },
+            {
+              "date": "2025-08-20",
+              "score": 33
+            },
+            {
+              "date": "2025-08-27",
+              "score": 38
+            },
+            {
+              "date": "2025-09-03",
+              "score": 28
+            },
+            {
+              "date": "2025-09-10",
+              "score": 38
+            },
+            {
+              "date": "2025-09-17",
+              "score": 29
+            },
+            {
+              "date": "2025-09-24",
+              "score": 33
+            },
+            {
+              "date": "2025-10-01",
+              "score": 26
+            },
+            {
+              "date": "2025-10-08",
+              "score": 30
+            },
+            {
+              "date": "2025-10-15",
+              "score": 31
+            },
+            {
+              "date": "2025-10-22",
+              "score": 39
+            },
+            {
+              "date": "2025-10-29",
+              "score": 32
+            },
+            {
+              "date": "2025-11-05",
+              "score": 25
+            },
+            {
+              "date": "2025-11-12",
+              "score": 39
+            },
+            {
+              "date": "2025-11-19",
+              "score": 37
+            },
+            {
+              "date": "2025-11-26",
+              "score": 32
+            },
+            {
+              "date": "2025-12-03",
+              "score": 29
+            },
+            {
+              "date": "2025-12-10",
+              "score": 33
+            },
+            {
+              "date": "2025-12-17",
+              "score": 26
+            },
+            {
+              "date": "2025-12-24",
+              "score": 36
+            }
+          ],
+          "rising_queries": []
+        }
+      }
+    }
+  ]
+}

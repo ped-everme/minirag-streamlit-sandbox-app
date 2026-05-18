@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Local configuration file for pyenv-virtualenv
+.secrets/
+
+# Collected data — keep directory structure, ignore output files
+src/trend_radar/data/raw/*.json
+src/trend_radar/data/raw/old/*.json
+src/trend_radar/data/processed/*.json
+src/trend_radar/data/output/*.json
+src/trend_radar/data/terms.json
+
+# Old data/ root (orphaned after move to src/trend_radar/data/)
+data/raw/
+data/output/
+data/processed/
+data/terms.json
+
+# Reports — local only, not versioned
+reports/
+.secrets/
+
+# Paper pipeline — generated data (papers, expansions, documents, index are gitignored)
+src/paper_pipeline/data/expansions/
+src/paper_pipeline/data/papers/
+src/paper_pipeline/data/documents/
+src/paper_pipeline/data/index/

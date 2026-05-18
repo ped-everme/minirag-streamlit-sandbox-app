@@ -1,0 +1,21 @@
+merge_task:
+  description: >
+    TABLE A (primary — OpenAI):
+
+    {table_a}
+
+    TABLE B (secondary — Perplexity):
+
+    {table_b}
+
+    Instructions:
+    1. Keep ALL rows from Table A exactly as they are.
+    2. Compare each row in Table B against Table A.
+    3. A row is a DUPLICATE if it refers to the same social trend, even with slightly different wording.
+    4. ONLY append rows from Table B that are NOT duplicates.
+    5. Continue the Rank numbering from where Table A ends.
+    6. Return ONLY the merged markdown table. No commentary.
+  expected_output: >
+    A single markdown table containing all rows from Table A followed by unique rows from Table B,
+    with continuous Rank numbering and the same column structure as the input tables.
+  agent: merge_agent

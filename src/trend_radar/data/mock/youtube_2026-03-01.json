@@ -1,0 +1,804 @@
+{
+  "source": "youtube",
+  "collected_at": "2026-03-01T12:00:00Z",
+  "windows": [
+    "90d",
+    "365d"
+  ],
+  "term_count": 12,
+  "note": "MOCK DATA — simulated for historical analysis",
+  "terms": [
+    {
+      "term_id": "wolverine-stack",
+      "social_trend_name": "Wolverine Stack",
+      "underlying_topic": "Peptides",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Wolverine Stack",
+        "BPC-157 TB-500",
+        "wolverine protocol peptides",
+        "peptide healing stack"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 6,
+          "total_views": 12330,
+          "avg_views_per_day": 137,
+          "top_views_per_day": 15344,
+          "videos": [
+            {
+              "video_id": "mock_wolver_0",
+              "title": "Wolverine Stack — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 32,
+              "view_count": 260448,
+              "views_per_day": 8139,
+              "matched_query": "Wolverine Stack"
+            },
+            {
+              "video_id": "mock_wolver_1",
+              "title": "Wolverine Stack — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 53,
+              "view_count": 443663,
+              "views_per_day": 8371,
+              "matched_query": "Wolverine Stack"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 24,
+          "total_views": 59495,
+          "avg_views_per_day": 163,
+          "top_views_per_day": 11690,
+          "videos": [
+            {
+              "video_id": "mock_wolver_0",
+              "title": "Wolverine Stack — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 47,
+              "view_count": 84036,
+              "views_per_day": 1788,
+              "matched_query": "Wolverine Stack"
+            },
+            {
+              "video_id": "mock_wolver_1",
+              "title": "Wolverine Stack — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 31,
+              "view_count": 86056,
+              "views_per_day": 2776,
+              "matched_query": "Wolverine Stack"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "fiber-maxing",
+      "social_trend_name": "Fiber-maxing",
+      "underlying_topic": "Dietary Fiber",
+      "everme_category": "Diet & Nutrition",
+      "queries_used": [
+        "Fiber-maxing",
+        "fiber maxxing",
+        "fiber maxing diet gut health",
+        "high fiber 50 grams daily"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 15,
+          "total_views": 31140,
+          "avg_views_per_day": 346,
+          "top_views_per_day": 7525,
+          "videos": [
+            {
+              "video_id": "mock_fiber-_0",
+              "title": "Fiber-maxing — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 55,
+              "view_count": 360525,
+              "views_per_day": 6555,
+              "matched_query": "Fiber-maxing"
+            },
+            {
+              "video_id": "mock_fiber-_1",
+              "title": "Fiber-maxing — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 25,
+              "view_count": 69450,
+              "views_per_day": 2778,
+              "matched_query": "Fiber-maxing"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 298,
+          "total_views": 352590,
+          "avg_views_per_day": 966,
+          "top_views_per_day": 25785,
+          "videos": [
+            {
+              "video_id": "mock_fiber-_0",
+              "title": "Fiber-maxing — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 75,
+              "view_count": 1918350,
+              "views_per_day": 25578,
+              "matched_query": "Fiber-maxing"
+            },
+            {
+              "video_id": "mock_fiber-_1",
+              "title": "Fiber-maxing — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 59,
+              "view_count": 689238,
+              "views_per_day": 11682,
+              "matched_query": "Fiber-maxing"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "cortisol-face",
+      "social_trend_name": "Cortisol Face",
+      "underlying_topic": "Cortisol / Stress Hormones",
+      "everme_category": "Mental Wellness",
+      "queries_used": [
+        "Cortisol Face",
+        "high cortisol symptoms face",
+        "cortisol reduction protocol",
+        "puffy face cortisol"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 485,
+          "total_views": 621270,
+          "avg_views_per_day": 6903,
+          "top_views_per_day": 318713,
+          "videos": [
+            {
+              "video_id": "mock_cortis_0",
+              "title": "Cortisol Face — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 29,
+              "view_count": 6717009,
+              "views_per_day": 231621,
+              "matched_query": "Cortisol Face"
+            },
+            {
+              "video_id": "mock_cortis_1",
+              "title": "Cortisol Face — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 75,
+              "view_count": 17473425,
+              "views_per_day": 232979,
+              "matched_query": "Cortisol Face"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 846,
+          "total_views": 1767330,
+          "avg_views_per_day": 4842,
+          "top_views_per_day": 369767,
+          "videos": [
+            {
+              "video_id": "mock_cortis_0",
+              "title": "Cortisol Face — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 21,
+              "view_count": 3528420,
+              "views_per_day": 168020,
+              "matched_query": "Cortisol Face"
+            },
+            {
+              "video_id": "mock_cortis_1",
+              "title": "Cortisol Face — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 79,
+              "view_count": 11423953,
+              "views_per_day": 144607,
+              "matched_query": "Cortisol Face"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "mouth-taping",
+      "social_trend_name": "Mouth Taping",
+      "underlying_topic": "Nasal Breathing",
+      "everme_category": "Sleep & Recovery",
+      "queries_used": [
+        "Mouth Taping",
+        "mouth taping sleep results",
+        "nasal breathing benefits sleep",
+        "mouth tape at night"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 273,
+          "total_views": 485640,
+          "avg_views_per_day": 5396,
+          "top_views_per_day": 830352,
+          "videos": [
+            {
+              "video_id": "mock_mouth-_0",
+              "title": "Mouth Taping — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 66,
+              "view_count": 27275292,
+              "views_per_day": 413262,
+              "matched_query": "Mouth Taping"
+            },
+            {
+              "video_id": "mock_mouth-_1",
+              "title": "Mouth Taping — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 23,
+              "view_count": 6912995,
+              "views_per_day": 300565,
+              "matched_query": "Mouth Taping"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 1897,
+          "total_views": 4532570,
+          "avg_views_per_day": 12418,
+          "top_views_per_day": 727215,
+          "videos": [
+            {
+              "video_id": "mock_mouth-_0",
+              "title": "Mouth Taping — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 30,
+              "view_count": 6300360,
+              "views_per_day": 210012,
+              "matched_query": "Mouth Taping"
+            },
+            {
+              "video_id": "mock_mouth-_1",
+              "title": "Mouth Taping — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 6,
+              "view_count": 3323898,
+              "views_per_day": 553983,
+              "matched_query": "Mouth Taping"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "cold-plunge",
+      "social_trend_name": "Cold Plunge",
+      "underlying_topic": "Cold Thermogenesis",
+      "everme_category": "Wellness Therapies",
+      "queries_used": [
+        "Cold Plunge",
+        "ice bath every day results",
+        "cold thermogenesis protocol",
+        "cold water immersion benefits"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 660,
+          "total_views": 950220,
+          "avg_views_per_day": 10558,
+          "top_views_per_day": 680857,
+          "videos": [
+            {
+              "video_id": "mock_cold-p_0",
+              "title": "Cold Plunge — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 26,
+              "view_count": 17426656,
+              "views_per_day": 670256,
+              "matched_query": "Cold Plunge"
+            },
+            {
+              "video_id": "mock_cold-p_1",
+              "title": "Cold Plunge — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 17,
+              "view_count": 10803551,
+              "views_per_day": 635503,
+              "matched_query": "Cold Plunge"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 3804,
+          "total_views": 3702560,
+          "avg_views_per_day": 10144,
+          "top_views_per_day": 672199,
+          "videos": [
+            {
+              "video_id": "mock_cold-p_0",
+              "title": "Cold Plunge — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 65,
+              "view_count": 18352165,
+              "views_per_day": 282341,
+              "matched_query": "Cold Plunge"
+            },
+            {
+              "video_id": "mock_cold-p_1",
+              "title": "Cold Plunge — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 11,
+              "view_count": 1934834,
+              "views_per_day": 175894,
+              "matched_query": "Cold Plunge"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "glp1-revolution",
+      "social_trend_name": "GLP-1 Revolution",
+      "underlying_topic": "GLP-1 Receptor Agonists",
+      "everme_category": "Prescription Medications",
+      "queries_used": [
+        "GLP-1 Revolution",
+        "semaglutide longevity beyond weight loss",
+        "ozempic metabolic health",
+        "GLP-1 agonist longevity research"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 15,
+          "total_views": 30420,
+          "avg_views_per_day": 338,
+          "top_views_per_day": 13331,
+          "videos": [
+            {
+              "video_id": "mock_glp1-r_0",
+              "title": "GLP-1 Revolution — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 20,
+              "view_count": 85460,
+              "views_per_day": 4273,
+              "matched_query": "GLP-1 Revolution"
+            },
+            {
+              "video_id": "mock_glp1-r_1",
+              "title": "GLP-1 Revolution — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 67,
+              "view_count": 282941,
+              "views_per_day": 4223,
+              "matched_query": "GLP-1 Revolution"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 117,
+          "total_views": 160600,
+          "avg_views_per_day": 440,
+          "top_views_per_day": 14420,
+          "videos": [
+            {
+              "video_id": "mock_glp1-r_0",
+              "title": "GLP-1 Revolution — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 81,
+              "view_count": 434970,
+              "views_per_day": 5370,
+              "matched_query": "GLP-1 Revolution"
+            },
+            {
+              "video_id": "mock_glp1-r_1",
+              "title": "GLP-1 Revolution — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 53,
+              "view_count": 732990,
+              "views_per_day": 13830,
+              "matched_query": "GLP-1 Revolution"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "urolithin-a",
+      "social_trend_name": "Urolithin A",
+      "underlying_topic": "Mitochondrial Health",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Urolithin A",
+        "urolithin A mitochondria aging",
+        "Timeline Mitopure results",
+        "urolithin A muscle endurance"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 15,
+          "total_views": 32310,
+          "avg_views_per_day": 359,
+          "top_views_per_day": 12232,
+          "videos": [
+            {
+              "video_id": "mock_urolit_0",
+              "title": "Urolithin A — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 85,
+              "view_count": 461550,
+              "views_per_day": 5430,
+              "matched_query": "Urolithin A"
+            },
+            {
+              "video_id": "mock_urolit_1",
+              "title": "Urolithin A — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 52,
+              "view_count": 437528,
+              "views_per_day": 8414,
+              "matched_query": "Urolithin A"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 62,
+          "total_views": 121180,
+          "avg_views_per_day": 332,
+          "top_views_per_day": 13232,
+          "videos": [
+            {
+              "video_id": "mock_urolit_0",
+              "title": "Urolithin A — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 19,
+              "view_count": 27759,
+              "views_per_day": 1461,
+              "matched_query": "Urolithin A"
+            },
+            {
+              "video_id": "mock_urolit_1",
+              "title": "Urolithin A — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 67,
+              "view_count": 154569,
+              "views_per_day": 2307,
+              "matched_query": "Urolithin A"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "akkermansia",
+      "social_trend_name": "Akkermansia",
+      "underlying_topic": "Gut Microbiome",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Akkermansia",
+        "akkermansia muciniphila benefits",
+        "akkermansia gut microbiome supplement",
+        "akkermansia weight loss"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 63,
+          "total_views": 102240,
+          "avg_views_per_day": 1136,
+          "top_views_per_day": 95914,
+          "videos": [
+            {
+              "video_id": "mock_akkerm_0",
+              "title": "Akkermansia — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 17,
+              "view_count": 1181092,
+              "views_per_day": 69476,
+              "matched_query": "Akkermansia"
+            },
+            {
+              "video_id": "mock_akkerm_1",
+              "title": "Akkermansia — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 28,
+              "view_count": 2188508,
+              "views_per_day": 78161,
+              "matched_query": "Akkermansia"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 276,
+          "total_views": 326310,
+          "avg_views_per_day": 894,
+          "top_views_per_day": 87143,
+          "videos": [
+            {
+              "video_id": "mock_akkerm_0",
+              "title": "Akkermansia — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 60,
+              "view_count": 2329680,
+              "views_per_day": 38828,
+              "matched_query": "Akkermansia"
+            },
+            {
+              "video_id": "mock_akkerm_1",
+              "title": "Akkermansia — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 21,
+              "view_count": 674415,
+              "views_per_day": 32115,
+              "matched_query": "Akkermansia"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "methylene-blue",
+      "social_trend_name": "Methylene Blue",
+      "underlying_topic": "Cellular Energy",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Methylene Blue",
+        "methylene blue cognitive benefits",
+        "methylene blue mitochondria energy",
+        "methylene blue dosage protocol"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 27,
+          "total_views": 58590,
+          "avg_views_per_day": 651,
+          "top_views_per_day": 15102,
+          "videos": [
+            {
+              "video_id": "mock_methyl_0",
+              "title": "Methylene Blue — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 76,
+              "view_count": 135204,
+              "views_per_day": 1779,
+              "matched_query": "Methylene Blue"
+            },
+            {
+              "video_id": "mock_methyl_1",
+              "title": "Methylene Blue — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 72,
+              "view_count": 908712,
+              "views_per_day": 12621,
+              "matched_query": "Methylene Blue"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 70,
+          "total_views": 163155,
+          "avg_views_per_day": 447,
+          "top_views_per_day": 15476,
+          "videos": [
+            {
+              "video_id": "mock_methyl_0",
+              "title": "Methylene Blue — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 71,
+              "view_count": 593063,
+              "views_per_day": 8353,
+              "matched_query": "Methylene Blue"
+            },
+            {
+              "video_id": "mock_methyl_1",
+              "title": "Methylene Blue — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 73,
+              "view_count": 964184,
+              "views_per_day": 13208,
+              "matched_query": "Methylene Blue"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "peptide-therapy",
+      "social_trend_name": "Peptide Therapy",
+      "underlying_topic": "Therapeutic Peptides",
+      "everme_category": "Advanced Medical Therapies",
+      "queries_used": [
+        "Peptide Therapy",
+        "peptide therapy anti-aging results",
+        "BPC-157 TB-500 healing",
+        "therapeutic peptides longevity"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 20,
+          "total_views": 46170,
+          "avg_views_per_day": 513,
+          "top_views_per_day": 46468,
+          "videos": [
+            {
+              "video_id": "mock_peptid_0",
+              "title": "Peptide Therapy — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 81,
+              "view_count": 988362,
+              "views_per_day": 12202,
+              "matched_query": "Peptide Therapy"
+            },
+            {
+              "video_id": "mock_peptid_1",
+              "title": "Peptide Therapy — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 5,
+              "view_count": 168610,
+              "views_per_day": 33722,
+              "matched_query": "Peptide Therapy"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 203,
+          "total_views": 205130,
+          "avg_views_per_day": 562,
+          "top_views_per_day": 41374,
+          "videos": [
+            {
+              "video_id": "mock_peptid_0",
+              "title": "Peptide Therapy — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 45,
+              "view_count": 1115685,
+              "views_per_day": 24793,
+              "matched_query": "Peptide Therapy"
+            },
+            {
+              "video_id": "mock_peptid_1",
+              "title": "Peptide Therapy — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 21,
+              "view_count": 183099,
+              "views_per_day": 8719,
+              "matched_query": "Peptide Therapy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "red-light-therapy",
+      "social_trend_name": "Red Light Therapy",
+      "underlying_topic": "Photobiomodulation",
+      "everme_category": "Wellness Therapies",
+      "queries_used": [
+        "Red Light Therapy",
+        "photobiomodulation benefits science",
+        "red light therapy at home protocol",
+        "infrared light therapy results"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 126,
+          "total_views": 119160,
+          "avg_views_per_day": 1324,
+          "top_views_per_day": 51531,
+          "videos": [
+            {
+              "video_id": "mock_red-li_0",
+              "title": "Red Light Therapy — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 43,
+              "view_count": 470291,
+              "views_per_day": 10937,
+              "matched_query": "Red Light Therapy"
+            },
+            {
+              "video_id": "mock_red-li_1",
+              "title": "Red Light Therapy — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 74,
+              "view_count": 1629036,
+              "views_per_day": 22014,
+              "matched_query": "Red Light Therapy"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 397,
+          "total_views": 376680,
+          "avg_views_per_day": 1032,
+          "top_views_per_day": 47266,
+          "videos": [
+            {
+              "video_id": "mock_red-li_0",
+              "title": "Red Light Therapy — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 5,
+              "view_count": 60130,
+              "views_per_day": 12026,
+              "matched_query": "Red Light Therapy"
+            },
+            {
+              "video_id": "mock_red-li_1",
+              "title": "Red Light Therapy — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 10,
+              "view_count": 152910,
+              "views_per_day": 15291,
+              "matched_query": "Red Light Therapy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "term_id": "spermidine",
+      "social_trend_name": "Spermidine",
+      "underlying_topic": "Autophagy",
+      "everme_category": "Supplements",
+      "queries_used": [
+        "Spermidine",
+        "spermidine longevity supplement",
+        "spermidine autophagy benefits",
+        "spermidine food sources aging"
+      ],
+      "windows": {
+        "90d": {
+          "video_count": 15,
+          "total_views": 26910,
+          "avg_views_per_day": 299,
+          "top_views_per_day": 12479,
+          "videos": [
+            {
+              "video_id": "mock_spermi_0",
+              "title": "Spermidine — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 71,
+              "view_count": 642905,
+              "views_per_day": 9055,
+              "matched_query": "Spermidine"
+            },
+            {
+              "video_id": "mock_spermi_1",
+              "title": "Spermidine — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 50,
+              "view_count": 573850,
+              "views_per_day": 11477,
+              "matched_query": "Spermidine"
+            }
+          ]
+        },
+        "365d": {
+          "video_count": 74,
+          "total_views": 157315,
+          "avg_views_per_day": 431,
+          "top_views_per_day": 12433,
+          "videos": [
+            {
+              "video_id": "mock_spermi_0",
+              "title": "Spermidine — video 1",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 70,
+              "view_count": 561820,
+              "views_per_day": 8026,
+              "matched_query": "Spermidine"
+            },
+            {
+              "video_id": "mock_spermi_1",
+              "title": "Spermidine — video 2",
+              "channel_title": "Mock Channel",
+              "days_since_publish": 17,
+              "view_count": 61047,
+              "views_per_day": 3591,
+              "matched_query": "Spermidine"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
