@@ -225,8 +225,9 @@ __marimo__/
 src/trend_radar/data/raw/*.json
 src/trend_radar/data/raw/old/*.json
 src/trend_radar/data/processed/*.json
-src/trend_radar/data/output/*.json
 src/trend_radar/data/terms.json
+# signal files are tracked (needed by Streamlit Cloud)
+src/trend_radar/data/output/audit_*.json
 
 # Old data/ root (orphaned after move to src/trend_radar/data/)
 data/raw/

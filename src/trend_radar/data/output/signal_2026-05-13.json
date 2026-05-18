@@ -1,0 +1,279 @@
+{
+  "run_date": "2026-05-13",
+  "generated_at": "2026-05-13T14:13:44Z",
+  "schema_version": "1.0",
+  "sources": {
+    "youtube": "/Users/pedro/Developer/trend-radar/src/trend_radar/data/mock/youtube_2026-04-01.json",
+    "google_trends": "/Users/pedro/Developer/trend-radar/src/trend_radar/data/mock/google_trends_2026-03-25.json",
+    "twitter": "/Users/pedro/Developer/trend-radar/src/trend_radar/data/mock/twitter_2026-04-25.json",
+    "tiktok": "/Users/pedro/Developer/trend-radar/src/trend_radar/data/mock/tiktok_2026-04-15.json"
+  },
+  "thresholds": {
+    "hype": 0.5,
+    "emerging": 0.5
+  },
+  "term_count": 12,
+  "terms": [
+    {
+      "term_id": "akkermansia",
+      "social_trend_name": "Akkermansia",
+      "underlying_topic": "Gut Microbiome",
+      "everme_category": "Supplements",
+      "related_terms": [
+        "akkermansia muciniphila benefits",
+        "akkermansia gut microbiome supplement",
+        "akkermansia weight loss"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.2579,
+      "emerging_score": 0.353,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_velocity_365d",
+        "gt_avg_365d",
+        "yt_peak_ratio"
+      ],
+      "routed_to": []
+    },
+    {
+      "term_id": "cold-plunge",
+      "social_trend_name": "Cold Plunge",
+      "underlying_topic": "Cold Thermogenesis",
+      "everme_category": "Wellness Therapies",
+      "related_terms": [
+        "ice bath every day results",
+        "cold thermogenesis protocol",
+        "cold water immersion benefits"
+      ],
+      "classification": "EMERGING",
+      "hype_score": 0.2617,
+      "emerging_score": 0.6817,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_avg_365d",
+        "yt_avg_vpd_365d",
+        "gt_velocity_365d"
+      ],
+      "routed_to": [
+        "rag"
+      ]
+    },
+    {
+      "term_id": "cortisol-face",
+      "social_trend_name": "Cortisol Face",
+      "underlying_topic": "Cortisol / Stress Hormones",
+      "everme_category": "Mental Wellness",
+      "related_terms": [
+        "high cortisol symptoms face",
+        "cortisol reduction protocol",
+        "puffy face cortisol"
+      ],
+      "classification": "HYPED + EMERGING",
+      "hype_score": 0.5296,
+      "emerging_score": 0.7168,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "tt_avg_shares",
+        "tw_avg_retweets",
+        "gt_avg_365d"
+      ],
+      "routed_to": [
+        "today_take",
+        "rag"
+      ]
+    },
+    {
+      "term_id": "fiber-maxing",
+      "social_trend_name": "Fiber-maxing",
+      "underlying_topic": "Dietary Fiber",
+      "everme_category": "Diet & Nutrition",
+      "related_terms": [
+        "fiber maxxing",
+        "fiber maxing diet gut health",
+        "high fiber 50 grams daily"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.0668,
+      "emerging_score": 0.0544,
+      "platforms_with_data": 3,
+      "signal_drivers": [
+        "tt_avg_shares",
+        "tt_avg_plays",
+        "yt_avg_vpd_365d"
+      ],
+      "routed_to": []
+    },
+    {
+      "term_id": "glp1-revolution",
+      "social_trend_name": "GLP-1 Revolution",
+      "underlying_topic": "GLP-1 Receptor Agonists",
+      "everme_category": "Prescription Medications",
+      "related_terms": [
+        "semaglutide longevity beyond weight loss",
+        "ozempic metabolic health",
+        "GLP-1 agonist longevity research"
+      ],
+      "classification": "HYPED",
+      "hype_score": 0.5023,
+      "emerging_score": 0.2358,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_above_baseline",
+        "gt_velocity_90d",
+        "yt_peak_ratio"
+      ],
+      "routed_to": [
+        "today_take"
+      ]
+    },
+    {
+      "term_id": "methylene-blue",
+      "social_trend_name": "Methylene Blue",
+      "underlying_topic": "Cellular Energy",
+      "everme_category": "Supplements",
+      "related_terms": [
+        "methylene blue cognitive benefits",
+        "methylene blue mitochondria energy",
+        "methylene blue dosage protocol"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.3007,
+      "emerging_score": 0.2647,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_avg_365d",
+        "tw_avg_retweets",
+        "yt_peak_ratio"
+      ],
+      "routed_to": []
+    },
+    {
+      "term_id": "mouth-taping",
+      "social_trend_name": "Mouth Taping",
+      "underlying_topic": "Nasal Breathing",
+      "everme_category": "Sleep & Recovery",
+      "related_terms": [
+        "mouth taping sleep results",
+        "nasal breathing benefits sleep",
+        "mouth tape at night"
+      ],
+      "classification": "EMERGING",
+      "hype_score": 0.3169,
+      "emerging_score": 0.572,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_avg_365d",
+        "yt_avg_vpd_365d",
+        "gt_velocity_365d"
+      ],
+      "routed_to": [
+        "rag"
+      ]
+    },
+    {
+      "term_id": "peptide-therapy",
+      "social_trend_name": "Peptide Therapy",
+      "underlying_topic": "Therapeutic Peptides",
+      "everme_category": "Advanced Medical Therapies",
+      "related_terms": [
+        "peptide therapy anti-aging results",
+        "BPC-157 TB-500 healing",
+        "therapeutic peptides longevity"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.2018,
+      "emerging_score": 0.4988,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_velocity_365d",
+        "gt_avg_365d",
+        "yt_peak_ratio"
+      ],
+      "routed_to": []
+    },
+    {
+      "term_id": "red-light-therapy",
+      "social_trend_name": "Red Light Therapy",
+      "underlying_topic": "Photobiomodulation",
+      "everme_category": "Wellness Therapies",
+      "related_terms": [
+        "photobiomodulation benefits science",
+        "red light therapy at home protocol",
+        "infrared light therapy results"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.3254,
+      "emerging_score": 0.4996,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_velocity_365d",
+        "gt_avg_365d",
+        "yt_peak_ratio"
+      ],
+      "routed_to": []
+    },
+    {
+      "term_id": "spermidine",
+      "social_trend_name": "Spermidine",
+      "underlying_topic": "Autophagy",
+      "everme_category": "Supplements",
+      "related_terms": [
+        "spermidine longevity supplement",
+        "spermidine autophagy benefits",
+        "spermidine food sources aging"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.2864,
+      "emerging_score": 0.3401,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_velocity_365d",
+        "gt_avg_365d",
+        "tw_avg_retweets"
+      ],
+      "routed_to": []
+    },
+    {
+      "term_id": "urolithin-a",
+      "social_trend_name": "Urolithin A",
+      "underlying_topic": "Mitochondrial Health",
+      "everme_category": "Supplements",
+      "related_terms": [
+        "urolithin A mitochondria aging",
+        "Timeline Mitopure results",
+        "urolithin A muscle endurance"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.2972,
+      "emerging_score": 0.3358,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_velocity_365d",
+        "gt_velocity_90d",
+        "gt_avg_365d"
+      ],
+      "routed_to": []
+    },
+    {
+      "term_id": "wolverine-stack",
+      "social_trend_name": "Wolverine Stack",
+      "underlying_topic": "Peptides",
+      "everme_category": "Supplements",
+      "related_terms": [
+        "BPC-157 TB-500",
+        "wolverine protocol peptides",
+        "peptide healing stack"
+      ],
+      "classification": "ESTABLISHED",
+      "hype_score": 0.3408,
+      "emerging_score": 0.2745,
+      "platforms_with_data": 4,
+      "signal_drivers": [
+        "gt_velocity_365d",
+        "yt_peak_ratio",
+        "gt_above_baseline"
+      ],
+      "routed_to": []
+    }
+  ]
+}
