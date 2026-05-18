@@ -238,8 +238,7 @@ data/terms.json
 reports/
 .secrets/
 
-# Paper pipeline — generated data (papers, expansions, documents, index are gitignored)
+# Paper pipeline — generated data (papers, expansions, documents are gitignored; index is tracked)
 src/paper_pipeline/data/expansions/
 src/paper_pipeline/data/papers/
 src/paper_pipeline/data/documents/
-src/paper_pipeline/data/index/
